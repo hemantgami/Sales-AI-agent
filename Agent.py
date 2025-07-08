@@ -503,4 +503,4 @@ with gr.Blocks() as demo:
     gr.Markdown("### 💬 Ask about your data:")
     chatbot = gr.ChatInterface(fn=handle_query, title="VECV Sales Chat", textbox=gr.Textbox(placeholder="Ask me about sales, models, regions..."))
     gr.Button("Exit")
-demo.launch()
+demo.launch(server_name="0.0.0.0", server_port=10000)
