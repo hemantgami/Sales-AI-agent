@@ -1,11 +1,9 @@
  gradio 
  pandas 
- matplotlib.pyplot
+ matplotlib
  seaborn 
  prophet  
- reportlab.pdfgen  
- reportlab.lib.pagesizes  
- reportlab.lib.utils 
+ reportlab 
  io
  os
  uuid
