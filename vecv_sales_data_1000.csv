@@ -1,0 +1,1001 @@
+Date,Region,Vehicle Model,Units Sold,Dealer Name,Sales Value (INR),Customer Segment,Channel
+2024-11-15,Punjab,Eicher Pro 6025,140,Metro Trucks,183780380,Retail,Direct
+2024-12-09,Gujarat,Skyline 20.15,171,S.K. Motors,245958371,Retail,Direct
+2024-06-14,Punjab,Eicher Pro 6025,117,Yash Auto,142282773,Fleet Owner,Dealer
+2024-05-28,Karnataka,Eicher Pro 6025,84,Metro Trucks,109631970,Government,Institutional
+2024-04-09,Gujarat,Eicher Pro 3015,61,S.K. Motors,62419619,Fleet Owner,Dealer
+2024-06-17,Punjab,Eicher Pro 3015,99,Yash Auto,150670976,Government,Dealer
+2024-07-27,Gujarat,Skyline Pro,85,Mahadev Motors,79484081,Government,Direct
+2024-06-23,Karnataka,Skyline Pro,118,Jai Ganesh Vehicles,107597111,Government,Direct
+2024-01-31,Maharashtra,Skyline Pro,65,Jai Ganesh Vehicles,61310539,Government,Direct
+2024-08-15,Gujarat,Skyline 20.15,31,Mahadev Motors,28286355,Retail,Dealer
+2024-11-20,Karnataka,Eicher Pro 3015,91,Jai Ganesh Vehicles,102531853,Fleet Owner,Dealer
+2024-12-13,Gujarat,Eicher Pro 2049,68,Jai Ganesh Vehicles,67637069,Government,Institutional
+2024-02-04,Maharashtra,Eicher Pro 2049,18,Yash Auto,18570615,Fleet Owner,Institutional
+2024-11-03,Tamil Nadu,Eicher Pro 2049,148,S.K. Motors,141408329,Government,Direct
+2024-07-27,Maharashtra,Eicher Pro 2049,129,Yash Auto,111573974,Retail,Institutional
+2024-01-07,Tamil Nadu,Eicher Pro 6025,131,S.K. Motors,177672981,Government,Dealer
+2024-05-06,Punjab,Eicher Pro 6025,160,Mahadev Motors,246746480,Retail,Direct
+2024-12-09,Punjab,Eicher Pro 2049,163,Yash Auto,199717828,Government,Direct
+2024-10-05,Maharashtra,Eicher Pro 2049,79,Metro Trucks,79591977,Retail,Institutional
+2024-12-12,Karnataka,Skyline 20.15,79,Metro Trucks,86334741,Fleet Owner,Institutional
+2024-07-26,Maharashtra,Eicher Pro 6025,61,Metro Trucks,80822123,Fleet Owner,Dealer
+2024-08-04,Maharashtra,Eicher Pro 6025,98,Mahadev Motors,140290666,Government,Dealer
+2024-12-19,Tamil Nadu,Eicher Pro 2049,171,Jai Ganesh Vehicles,196314768,Retail,Dealer
+2024-05-19,Maharashtra,Eicher Pro 6025,41,Metro Trucks,35336632,Government,Institutional
+2024-05-31,Gujarat,Eicher Pro 3015,118,S.K. Motors,122560732,Fleet Owner,Dealer
+2024-09-09,Punjab,Eicher Pro 6025,186,Metro Trucks,193047817,Retail,Direct
+2024-07-12,Punjab,Skyline Pro,162,Metro Trucks,228787745,Government,Institutional
+2024-07-16,Punjab,Skyline 20.15,127,Metro Trucks,148633107,Government,Institutional
+2024-01-15,Gujarat,Skyline 20.15,180,S.K. Motors,148033529,Government,Direct
+2024-03-17,Tamil Nadu,Eicher Pro 2049,131,Mahadev Motors,188635332,Fleet Owner,Institutional
+2024-12-22,Punjab,Skyline 20.15,68,Metro Trucks,59880494,Fleet Owner,Direct
+2024-02-17,Karnataka,Eicher Pro 6025,55,Metro Trucks,71994630,Retail,Dealer
+2024-11-28,Maharashtra,Eicher Pro 2049,62,Yash Auto,65459879,Fleet Owner,Direct
+2024-07-12,Gujarat,Skyline Pro,19,Metro Trucks,24506766,Retail,Dealer
+2024-02-23,Tamil Nadu,Eicher Pro 3015,132,Jai Ganesh Vehicles,129277407,Government,Direct
+2024-05-25,Tamil Nadu,Eicher Pro 2049,135,Jai Ganesh Vehicles,139808737,Government,Direct
+2024-03-09,Tamil Nadu,Eicher Pro 6025,92,Yash Auto,102798715,Retail,Institutional
+2024-10-05,Maharashtra,Eicher Pro 3015,122,Yash Auto,124320076,Fleet Owner,Direct
+2024-08-05,Karnataka,Skyline Pro,33,S.K. Motors,29912670,Fleet Owner,Direct
+2024-04-09,Karnataka,Eicher Pro 3015,121,Metro Trucks,176507754,Retail,Institutional
+2024-12-12,Karnataka,Skyline 20.15,66,Yash Auto,66901864,Government,Institutional
+2024-07-14,Punjab,Eicher Pro 2049,91,S.K. Motors,116488255,Fleet Owner,Dealer
+2024-06-16,Gujarat,Eicher Pro 3015,158,Mahadev Motors,175844712,Government,Direct
+2024-09-01,Gujarat,Skyline Pro,102,Mahadev Motors,139005763,Retail,Direct
+2024-01-26,Gujarat,Eicher Pro 3015,112,S.K. Motors,167263181,Fleet Owner,Dealer
+2024-02-16,Tamil Nadu,Skyline 20.15,53,Metro Trucks,74056871,Retail,Dealer
+2024-09-06,Karnataka,Eicher Pro 3015,138,S.K. Motors,182733849,Fleet Owner,Dealer
+2024-11-19,Punjab,Eicher Pro 3015,185,Jai Ganesh Vehicles,259027064,Government,Institutional
+2024-11-17,Gujarat,Eicher Pro 6025,101,Mahadev Motors,159330427,Retail,Dealer
+2024-10-21,Tamil Nadu,Eicher Pro 6025,177,Jai Ganesh Vehicles,256848425,Government,Dealer
+2024-07-22,Gujarat,Eicher Pro 3015,156,Metro Trucks,134149331,Government,Institutional
+2024-01-20,Punjab,Eicher Pro 3015,136,Jai Ganesh Vehicles,172506839,Fleet Owner,Direct
+2024-01-07,Maharashtra,Eicher Pro 2049,142,Mahadev Motors,200948226,Government,Direct
+2024-12-21,Tamil Nadu,Eicher Pro 6025,183,S.K. Motors,184476540,Fleet Owner,Institutional
+2024-06-29,Karnataka,Skyline Pro,139,Jai Ganesh Vehicles,147341260,Fleet Owner,Institutional
+2024-10-16,Tamil Nadu,Eicher Pro 6025,84,Jai Ganesh Vehicles,118762380,Fleet Owner,Dealer
+2024-03-19,Punjab,Skyline 20.15,113,Jai Ganesh Vehicles,115345408,Retail,Institutional
+2024-10-27,Maharashtra,Eicher Pro 3015,100,Mahadev Motors,128802788,Government,Institutional
+2024-12-11,Punjab,Eicher Pro 2049,101,Jai Ganesh Vehicles,80997989,Retail,Institutional
+2024-04-05,Punjab,Eicher Pro 2049,13,Metro Trucks,16884779,Retail,Dealer
+2024-12-05,Punjab,Skyline 20.15,188,Metro Trucks,198075772,Retail,Dealer
+2024-01-19,Tamil Nadu,Eicher Pro 6025,110,Metro Trucks,134417084,Fleet Owner,Dealer
+2024-04-06,Tamil Nadu,Eicher Pro 6025,105,Mahadev Motors,148916063,Government,Dealer
+2024-09-21,Punjab,Skyline Pro,151,Yash Auto,219033720,Retail,Dealer
+2024-01-01,Punjab,Eicher Pro 3015,57,Mahadev Motors,66571002,Retail,Dealer
+2024-01-22,Gujarat,Skyline 20.15,196,Yash Auto,183879604,Government,Direct
+2024-11-28,Tamil Nadu,Eicher Pro 6025,118,Metro Trucks,135783367,Retail,Dealer
+2024-04-23,Gujarat,Skyline 20.15,122,Jai Ganesh Vehicles,101116811,Fleet Owner,Dealer
+2024-07-30,Maharashtra,Eicher Pro 6025,116,Metro Trucks,161293710,Government,Institutional
+2024-04-07,Karnataka,Eicher Pro 2049,160,Jai Ganesh Vehicles,153632766,Fleet Owner,Institutional
+2024-07-14,Karnataka,Eicher Pro 3015,121,Metro Trucks,134812973,Government,Direct
+2024-12-26,Karnataka,Eicher Pro 2049,155,Metro Trucks,198123616,Fleet Owner,Dealer
+2024-02-13,Punjab,Skyline Pro,59,Yash Auto,75524465,Government,Direct
+2024-09-04,Karnataka,Skyline 20.15,181,Metro Trucks,216046066,Fleet Owner,Dealer
+2024-06-01,Tamil Nadu,Eicher Pro 2049,166,Metro Trucks,246744180,Government,Direct
+2024-01-05,Punjab,Skyline 20.15,133,S.K. Motors,207850385,Fleet Owner,Direct
+2024-04-06,Punjab,Eicher Pro 6025,153,Metro Trucks,238306128,Fleet Owner,Direct
+2024-10-10,Maharashtra,Skyline Pro,65,Mahadev Motors,80338823,Government,Institutional
+2024-01-10,Maharashtra,Eicher Pro 3015,132,S.K. Motors,187961724,Government,Direct
+2024-04-03,Punjab,Eicher Pro 6025,101,S.K. Motors,152722616,Retail,Direct
+2024-05-25,Maharashtra,Eicher Pro 6025,175,Yash Auto,149888574,Fleet Owner,Direct
+2024-04-22,Gujarat,Skyline Pro,115,Metro Trucks,168195287,Government,Institutional
+2024-05-14,Gujarat,Eicher Pro 3015,45,Mahadev Motors,59121499,Retail,Institutional
+2024-03-29,Tamil Nadu,Skyline Pro,90,Metro Trucks,103198527,Retail,Institutional
+2024-02-20,Gujarat,Skyline 20.15,17,Mahadev Motors,15097356,Government,Dealer
+2024-10-26,Punjab,Eicher Pro 6025,93,Jai Ganesh Vehicles,74702742,Fleet Owner,Dealer
+2024-06-27,Karnataka,Skyline Pro,36,Jai Ganesh Vehicles,41705947,Retail,Dealer
+2024-08-15,Tamil Nadu,Eicher Pro 3015,160,S.K. Motors,145768906,Retail,Dealer
+2024-05-11,Karnataka,Skyline 20.15,64,Yash Auto,83129005,Government,Institutional
+2024-09-12,Karnataka,Skyline 20.15,191,Yash Auto,294598490,Government,Direct
+2024-01-31,Tamil Nadu,Eicher Pro 2049,166,Jai Ganesh Vehicles,227030882,Government,Direct
+2024-08-18,Gujarat,Skyline Pro,34,Mahadev Motors,53008017,Fleet Owner,Institutional
+2024-12-16,Maharashtra,Eicher Pro 2049,178,S.K. Motors,184533553,Fleet Owner,Dealer
+2024-10-07,Punjab,Eicher Pro 2049,103,Metro Trucks,94854989,Government,Dealer
+2024-08-05,Tamil Nadu,Eicher Pro 6025,77,S.K. Motors,120523753,Government,Dealer
+2024-05-10,Karnataka,Skyline 20.15,163,Jai Ganesh Vehicles,212024680,Government,Direct
+2024-12-07,Tamil Nadu,Skyline Pro,112,Jai Ganesh Vehicles,171178268,Retail,Institutional
+2024-09-26,Gujarat,Skyline Pro,172,Mahadev Motors,205874168,Government,Direct
+2024-11-16,Punjab,Eicher Pro 6025,32,Metro Trucks,34513009,Fleet Owner,Dealer
+2024-12-26,Punjab,Eicher Pro 6025,182,Metro Trucks,223701742,Retail,Dealer
+2024-10-28,Punjab,Skyline Pro,159,Mahadev Motors,177120160,Government,Dealer
+2024-06-01,Maharashtra,Skyline Pro,107,Metro Trucks,117991884,Fleet Owner,Dealer
+2024-10-28,Punjab,Eicher Pro 3015,83,S.K. Motors,99439531,Fleet Owner,Dealer
+2024-12-08,Gujarat,Eicher Pro 6025,156,Yash Auto,152241607,Government,Direct
+2024-12-07,Punjab,Skyline 20.15,172,Mahadev Motors,253771020,Government,Dealer
+2024-02-12,Tamil Nadu,Skyline Pro,93,Jai Ganesh Vehicles,108803981,Government,Dealer
+2024-02-16,Gujarat,Eicher Pro 2049,187,Jai Ganesh Vehicles,299030710,Fleet Owner,Institutional
+2024-09-16,Punjab,Eicher Pro 6025,175,Yash Auto,164189176,Retail,Institutional
+2024-08-02,Tamil Nadu,Eicher Pro 6025,166,S.K. Motors,242560847,Government,Direct
+2024-09-08,Gujarat,Eicher Pro 2049,110,Yash Auto,171649963,Government,Institutional
+2024-12-10,Punjab,Eicher Pro 3015,41,Jai Ganesh Vehicles,52717119,Fleet Owner,Institutional
+2024-04-09,Maharashtra,Skyline Pro,189,Yash Auto,275384506,Retail,Dealer
+2024-02-16,Gujarat,Skyline 20.15,158,Mahadev Motors,163607039,Retail,Dealer
+2024-06-23,Punjab,Eicher Pro 3015,30,Jai Ganesh Vehicles,37927658,Fleet Owner,Direct
+2024-12-23,Tamil Nadu,Eicher Pro 2049,198,Metro Trucks,292734097,Government,Dealer
+2024-07-16,Gujarat,Eicher Pro 2049,196,Metro Trucks,178183604,Government,Dealer
+2024-09-14,Tamil Nadu,Eicher Pro 3015,30,Metro Trucks,25702601,Retail,Direct
+2024-12-28,Gujarat,Eicher Pro 2049,150,Yash Auto,174352915,Retail,Direct
+2024-10-28,Tamil Nadu,Skyline 20.15,114,Yash Auto,93684942,Fleet Owner,Dealer
+2024-01-21,Karnataka,Skyline 20.15,115,Yash Auto,92656860,Government,Institutional
+2024-12-01,Punjab,Skyline 20.15,140,Yash Auto,198662916,Retail,Institutional
+2024-03-17,Maharashtra,Eicher Pro 2049,150,Jai Ganesh Vehicles,153155239,Government,Direct
+2024-04-25,Karnataka,Eicher Pro 3015,193,Metro Trucks,237025984,Retail,Direct
+2024-04-04,Karnataka,Eicher Pro 6025,92,Yash Auto,129194154,Government,Dealer
+2024-11-04,Tamil Nadu,Eicher Pro 2049,118,S.K. Motors,125584232,Government,Dealer
+2024-01-09,Gujarat,Eicher Pro 6025,32,Yash Auto,30715839,Retail,Dealer
+2024-12-23,Tamil Nadu,Skyline 20.15,176,Yash Auto,161599417,Government,Direct
+2024-03-02,Karnataka,Eicher Pro 2049,141,Jai Ganesh Vehicles,145967568,Retail,Institutional
+2024-05-02,Tamil Nadu,Skyline 20.15,28,Mahadev Motors,26896525,Retail,Dealer
+2024-12-29,Punjab,Eicher Pro 6025,200,Metro Trucks,266257710,Government,Direct
+2024-10-04,Tamil Nadu,Skyline Pro,72,Mahadev Motors,80808928,Government,Direct
+2024-06-01,Tamil Nadu,Skyline 20.15,114,Yash Auto,116373591,Retail,Institutional
+2024-11-05,Gujarat,Eicher Pro 2049,43,Jai Ganesh Vehicles,58989248,Government,Dealer
+2024-10-22,Maharashtra,Skyline 20.15,14,Mahadev Motors,12209254,Government,Direct
+2024-11-28,Punjab,Eicher Pro 3015,14,S.K. Motors,12618133,Government,Direct
+2024-03-01,Tamil Nadu,Eicher Pro 6025,91,Jai Ganesh Vehicles,123698992,Fleet Owner,Institutional
+2024-02-20,Maharashtra,Skyline 20.15,198,S.K. Motors,228168171,Fleet Owner,Dealer
+2024-05-17,Punjab,Eicher Pro 2049,172,Mahadev Motors,242783137,Government,Dealer
+2024-11-25,Maharashtra,Skyline Pro,82,Jai Ganesh Vehicles,119658097,Fleet Owner,Direct
+2024-06-08,Punjab,Skyline 20.15,134,Jai Ganesh Vehicles,193620261,Fleet Owner,Dealer
+2024-12-02,Karnataka,Eicher Pro 3015,112,Yash Auto,151102759,Retail,Direct
+2024-06-08,Gujarat,Eicher Pro 2049,182,Yash Auto,164353274,Government,Dealer
+2024-11-18,Gujarat,Skyline 20.15,24,S.K. Motors,37298750,Retail,Institutional
+2024-02-17,Karnataka,Skyline 20.15,47,Yash Auto,50207877,Retail,Direct
+2024-08-14,Tamil Nadu,Skyline 20.15,96,Jai Ganesh Vehicles,81846299,Retail,Dealer
+2024-10-17,Gujarat,Eicher Pro 2049,180,Jai Ganesh Vehicles,184073733,Fleet Owner,Direct
+2024-03-16,Maharashtra,Eicher Pro 3015,95,Metro Trucks,99722652,Government,Direct
+2024-03-09,Karnataka,Eicher Pro 2049,189,S.K. Motors,181552451,Fleet Owner,Dealer
+2024-01-10,Maharashtra,Skyline 20.15,183,Jai Ganesh Vehicles,235864419,Fleet Owner,Direct
+2024-08-26,Gujarat,Eicher Pro 6025,111,Metro Trucks,119576172,Fleet Owner,Institutional
+2024-06-17,Maharashtra,Skyline 20.15,29,S.K. Motors,31122469,Retail,Dealer
+2024-08-13,Gujarat,Eicher Pro 3015,141,Mahadev Motors,149559487,Government,Institutional
+2024-05-18,Karnataka,Eicher Pro 2049,156,Metro Trucks,212127029,Government,Direct
+2024-02-25,Karnataka,Eicher Pro 3015,199,Metro Trucks,181595308,Fleet Owner,Dealer
+2024-01-13,Tamil Nadu,Eicher Pro 2049,56,Mahadev Motors,52093853,Fleet Owner,Institutional
+2024-03-22,Punjab,Skyline Pro,85,Metro Trucks,123795959,Fleet Owner,Dealer
+2024-03-16,Karnataka,Skyline 20.15,187,Yash Auto,229467182,Government,Institutional
+2024-03-19,Punjab,Skyline 20.15,55,Metro Trucks,54354168,Retail,Institutional
+2024-01-10,Tamil Nadu,Eicher Pro 2049,149,Jai Ganesh Vehicles,125293400,Government,Institutional
+2024-01-01,Punjab,Eicher Pro 6025,88,Metro Trucks,120670192,Retail,Dealer
+2024-09-28,Tamil Nadu,Eicher Pro 2049,192,Mahadev Motors,158225172,Retail,Dealer
+2024-04-27,Karnataka,Skyline 20.15,100,Metro Trucks,112002590,Government,Direct
+2024-09-02,Karnataka,Skyline 20.15,124,S.K. Motors,139226316,Government,Dealer
+2024-08-02,Punjab,Skyline Pro,90,Mahadev Motors,104065915,Government,Dealer
+2024-09-26,Karnataka,Eicher Pro 6025,15,Jai Ganesh Vehicles,15952209,Government,Direct
+2024-08-21,Punjab,Eicher Pro 2049,134,Metro Trucks,135561666,Retail,Institutional
+2024-04-21,Maharashtra,Skyline 20.15,149,Jai Ganesh Vehicles,234219557,Fleet Owner,Dealer
+2024-12-28,Maharashtra,Skyline Pro,156,Mahadev Motors,171378329,Retail,Direct
+2024-08-01,Karnataka,Eicher Pro 3015,117,Jai Ganesh Vehicles,153544288,Retail,Institutional
+2024-02-23,Punjab,Eicher Pro 3015,113,Yash Auto,127970727,Fleet Owner,Direct
+2024-05-26,Punjab,Skyline 20.15,49,Mahadev Motors,68744842,Government,Institutional
+2024-01-28,Maharashtra,Eicher Pro 2049,105,Mahadev Motors,166578056,Fleet Owner,Direct
+2024-12-28,Karnataka,Eicher Pro 3015,120,S.K. Motors,98830579,Fleet Owner,Dealer
+2024-12-04,Tamil Nadu,Eicher Pro 6025,131,Metro Trucks,173839032,Government,Institutional
+2024-07-25,Punjab,Skyline 20.15,81,Jai Ganesh Vehicles,69719818,Fleet Owner,Dealer
+2024-07-04,Punjab,Eicher Pro 3015,181,Jai Ganesh Vehicles,263456425,Fleet Owner,Direct
+2024-06-22,Gujarat,Skyline 20.15,49,Yash Auto,56219555,Fleet Owner,Dealer
+2024-04-13,Maharashtra,Eicher Pro 3015,70,Mahadev Motors,98633673,Government,Direct
+2024-08-04,Tamil Nadu,Skyline 20.15,48,Jai Ganesh Vehicles,58096135,Government,Institutional
+2024-04-09,Maharashtra,Eicher Pro 2049,103,Jai Ganesh Vehicles,120939170,Government,Institutional
+2024-04-11,Punjab,Skyline 20.15,157,Mahadev Motors,144299324,Government,Direct
+2024-02-12,Tamil Nadu,Skyline 20.15,111,Yash Auto,156410457,Government,Institutional
+2024-12-24,Karnataka,Skyline Pro,15,Metro Trucks,19971592,Government,Dealer
+2024-09-25,Tamil Nadu,Skyline Pro,32,Mahadev Motors,35350516,Retail,Direct
+2024-02-29,Gujarat,Skyline 20.15,71,Metro Trucks,113067432,Retail,Dealer
+2024-09-06,Maharashtra,Skyline 20.15,92,S.K. Motors,92067371,Retail,Direct
+2024-12-01,Maharashtra,Eicher Pro 2049,66,Metro Trucks,81564105,Government,Direct
+2024-05-13,Maharashtra,Eicher Pro 6025,178,Mahadev Motors,241846217,Retail,Dealer
+2024-08-16,Tamil Nadu,Skyline Pro,88,Jai Ganesh Vehicles,129268195,Retail,Dealer
+2024-10-01,Tamil Nadu,Skyline 20.15,179,Metro Trucks,237274795,Fleet Owner,Dealer
+2024-01-26,Gujarat,Skyline 20.15,123,Metro Trucks,142382297,Fleet Owner,Dealer
+2024-09-11,Gujarat,Eicher Pro 6025,66,Mahadev Motors,82712074,Fleet Owner,Direct
+2024-11-28,Maharashtra,Eicher Pro 6025,176,Metro Trucks,277298613,Retail,Direct
+2024-10-10,Karnataka,Eicher Pro 6025,95,Mahadev Motors,84164637,Fleet Owner,Dealer
+2024-01-29,Karnataka,Eicher Pro 6025,95,S.K. Motors,80605021,Government,Institutional
+2024-07-30,Maharashtra,Eicher Pro 2049,133,Mahadev Motors,165969071,Retail,Direct
+2024-06-13,Maharashtra,Eicher Pro 6025,10,S.K. Motors,14050374,Fleet Owner,Dealer
+2024-04-29,Tamil Nadu,Skyline 20.15,113,Jai Ganesh Vehicles,150778468,Government,Dealer
+2024-06-09,Gujarat,Eicher Pro 3015,131,Metro Trucks,131555624,Retail,Direct
+2024-02-09,Maharashtra,Eicher Pro 6025,55,S.K. Motors,84450244,Retail,Institutional
+2024-12-25,Maharashtra,Eicher Pro 6025,106,S.K. Motors,119189646,Government,Direct
+2024-11-10,Maharashtra,Skyline 20.15,47,Yash Auto,69914580,Retail,Direct
+2024-07-30,Punjab,Eicher Pro 3015,175,Jai Ganesh Vehicles,209547847,Fleet Owner,Institutional
+2024-06-03,Gujarat,Eicher Pro 6025,116,S.K. Motors,139736762,Retail,Dealer
+2024-09-01,Tamil Nadu,Eicher Pro 2049,54,S.K. Motors,45389381,Fleet Owner,Dealer
+2024-01-20,Maharashtra,Eicher Pro 3015,78,S.K. Motors,82507826,Retail,Institutional
+2024-01-18,Gujarat,Eicher Pro 2049,56,Metro Trucks,54536621,Government,Direct
+2024-03-01,Punjab,Eicher Pro 3015,76,Mahadev Motors,105471824,Government,Dealer
+2024-05-25,Karnataka,Eicher Pro 2049,10,Metro Trucks,11311453,Retail,Institutional
+2024-01-25,Gujarat,Eicher Pro 6025,29,S.K. Motors,29370403,Retail,Dealer
+2024-08-06,Punjab,Eicher Pro 2049,21,Jai Ganesh Vehicles,17620181,Government,Direct
+2024-11-22,Maharashtra,Skyline Pro,82,Metro Trucks,111367028,Fleet Owner,Institutional
+2024-12-08,Gujarat,Skyline 20.15,191,Yash Auto,255223749,Retail,Institutional
+2024-10-17,Karnataka,Skyline 20.15,81,S.K. Motors,106297843,Fleet Owner,Dealer
+2024-07-11,Maharashtra,Skyline 20.15,62,Metro Trucks,93276273,Fleet Owner,Institutional
+2024-12-05,Gujarat,Eicher Pro 6025,85,Yash Auto,133922050,Retail,Institutional
+2024-01-25,Punjab,Skyline Pro,155,Mahadev Motors,128568064,Fleet Owner,Dealer
+2024-11-26,Gujarat,Skyline 20.15,187,Jai Ganesh Vehicles,278455122,Fleet Owner,Dealer
+2024-10-10,Gujarat,Eicher Pro 2049,99,Mahadev Motors,124999385,Government,Institutional
+2024-01-09,Karnataka,Eicher Pro 3015,29,Jai Ganesh Vehicles,45837497,Fleet Owner,Dealer
+2024-02-15,Karnataka,Eicher Pro 2049,159,Metro Trucks,191667285,Retail,Dealer
+2024-07-19,Punjab,Eicher Pro 2049,151,Mahadev Motors,213958192,Government,Institutional
+2024-01-22,Tamil Nadu,Eicher Pro 3015,39,Mahadev Motors,44016985,Retail,Dealer
+2024-07-19,Maharashtra,Skyline 20.15,30,Metro Trucks,25771813,Retail,Dealer
+2024-09-03,Tamil Nadu,Eicher Pro 3015,191,Mahadev Motors,227312505,Fleet Owner,Direct
+2024-10-14,Karnataka,Eicher Pro 6025,20,Metro Trucks,30688408,Government,Dealer
+2024-09-17,Tamil Nadu,Skyline Pro,10,Metro Trucks,11914087,Government,Institutional
+2024-04-21,Karnataka,Skyline 20.15,154,Jai Ganesh Vehicles,127821528,Government,Institutional
+2024-11-16,Gujarat,Skyline 20.15,24,Yash Auto,34974705,Fleet Owner,Dealer
+2024-09-27,Karnataka,Eicher Pro 2049,155,Jai Ganesh Vehicles,143320761,Fleet Owner,Institutional
+2024-03-28,Karnataka,Skyline Pro,177,Metro Trucks,142611377,Government,Direct
+2024-09-23,Punjab,Eicher Pro 3015,192,S.K. Motors,233699390,Government,Direct
+2024-08-02,Maharashtra,Eicher Pro 6025,132,Yash Auto,128859246,Retail,Dealer
+2024-10-11,Punjab,Eicher Pro 2049,102,S.K. Motors,131277209,Retail,Dealer
+2024-06-17,Tamil Nadu,Skyline 20.15,194,Yash Auto,173307775,Fleet Owner,Dealer
+2024-01-22,Punjab,Skyline Pro,190,Mahadev Motors,233295879,Retail,Dealer
+2024-11-22,Tamil Nadu,Skyline Pro,132,Mahadev Motors,171175572,Retail,Dealer
+2024-04-17,Maharashtra,Eicher Pro 2049,139,S.K. Motors,130135756,Retail,Institutional
+2024-09-16,Tamil Nadu,Eicher Pro 2049,31,Metro Trucks,41889677,Fleet Owner,Institutional
+2024-01-04,Tamil Nadu,Eicher Pro 3015,94,S.K. Motors,119850888,Fleet Owner,Dealer
+2024-01-03,Tamil Nadu,Eicher Pro 2049,179,Jai Ganesh Vehicles,211591086,Retail,Institutional
+2024-09-04,Tamil Nadu,Eicher Pro 6025,51,Mahadev Motors,61619929,Fleet Owner,Institutional
+2024-08-03,Maharashtra,Eicher Pro 2049,87,Yash Auto,77437865,Government,Dealer
+2024-05-17,Karnataka,Skyline 20.15,45,Yash Auto,54885340,Government,Direct
+2024-10-09,Maharashtra,Skyline 20.15,178,Yash Auto,187672614,Fleet Owner,Dealer
+2024-10-28,Tamil Nadu,Skyline 20.15,171,Jai Ganesh Vehicles,229572128,Fleet Owner,Institutional
+2024-03-30,Karnataka,Eicher Pro 2049,155,Metro Trucks,207755276,Retail,Direct
+2024-01-25,Gujarat,Eicher Pro 2049,14,Metro Trucks,19177679,Retail,Institutional
+2024-09-30,Gujarat,Eicher Pro 2049,27,Mahadev Motors,26592601,Government,Dealer
+2024-06-18,Karnataka,Eicher Pro 6025,23,Jai Ganesh Vehicles,27817641,Government,Institutional
+2024-05-02,Gujarat,Eicher Pro 3015,198,Metro Trucks,203894129,Fleet Owner,Institutional
+2024-10-22,Gujarat,Eicher Pro 3015,171,Metro Trucks,145712681,Fleet Owner,Dealer
+2024-12-04,Maharashtra,Eicher Pro 2049,46,Yash Auto,48213629,Government,Institutional
+2024-10-01,Karnataka,Eicher Pro 6025,174,S.K. Motors,220209338,Retail,Institutional
+2024-05-27,Punjab,Eicher Pro 3015,152,Jai Ganesh Vehicles,125563450,Retail,Direct
+2024-04-20,Punjab,Skyline 20.15,80,Mahadev Motors,117242426,Fleet Owner,Institutional
+2024-10-14,Gujarat,Skyline Pro,139,S.K. Motors,158478324,Fleet Owner,Direct
+2024-03-31,Tamil Nadu,Eicher Pro 3015,133,Metro Trucks,188708314,Government,Direct
+2024-03-31,Gujarat,Eicher Pro 3015,15,Jai Ganesh Vehicles,12900880,Fleet Owner,Direct
+2024-07-27,Punjab,Eicher Pro 2049,14,Metro Trucks,21823987,Fleet Owner,Direct
+2024-12-06,Karnataka,Skyline Pro,184,Jai Ganesh Vehicles,223303567,Fleet Owner,Dealer
+2024-09-28,Maharashtra,Skyline Pro,22,Jai Ganesh Vehicles,30436562,Fleet Owner,Institutional
+2024-12-20,Punjab,Eicher Pro 2049,33,Metro Trucks,30665478,Retail,Institutional
+2024-11-16,Karnataka,Eicher Pro 3015,10,S.K. Motors,15510102,Fleet Owner,Dealer
+2024-05-20,Punjab,Eicher Pro 2049,28,Metro Trucks,27339458,Government,Dealer
+2024-05-20,Gujarat,Eicher Pro 2049,136,Metro Trucks,120403443,Fleet Owner,Dealer
+2024-03-16,Punjab,Eicher Pro 2049,123,Mahadev Motors,115331368,Retail,Direct
+2024-08-15,Punjab,Skyline 20.15,86,Metro Trucks,69076878,Fleet Owner,Direct
+2024-12-07,Punjab,Eicher Pro 6025,164,Mahadev Motors,146301048,Fleet Owner,Institutional
+2024-07-31,Karnataka,Skyline Pro,74,Yash Auto,69369794,Retail,Institutional
+2024-12-25,Maharashtra,Skyline 20.15,35,Yash Auto,38991374,Retail,Direct
+2024-09-04,Gujarat,Eicher Pro 6025,178,S.K. Motors,264081815,Fleet Owner,Institutional
+2024-08-01,Tamil Nadu,Eicher Pro 2049,192,Mahadev Motors,262882571,Fleet Owner,Direct
+2024-02-14,Gujarat,Eicher Pro 3015,86,Metro Trucks,129116212,Retail,Dealer
+2024-02-06,Karnataka,Skyline 20.15,172,Mahadev Motors,195562421,Government,Institutional
+2024-09-07,Tamil Nadu,Eicher Pro 6025,164,Metro Trucks,260259673,Government,Dealer
+2024-02-12,Gujarat,Eicher Pro 6025,50,S.K. Motors,52845878,Retail,Institutional
+2024-09-22,Karnataka,Eicher Pro 3015,122,Metro Trucks,177220498,Fleet Owner,Dealer
+2024-04-08,Tamil Nadu,Eicher Pro 3015,36,S.K. Motors,28928731,Government,Dealer
+2024-09-22,Gujarat,Skyline Pro,56,Mahadev Motors,59891814,Fleet Owner,Institutional
+2024-08-10,Tamil Nadu,Eicher Pro 2049,66,S.K. Motors,86887618,Retail,Direct
+2024-02-26,Gujarat,Skyline Pro,54,Yash Auto,85128668,Fleet Owner,Dealer
+2024-07-01,Punjab,Eicher Pro 6025,189,Metro Trucks,178169904,Retail,Institutional
+2024-01-21,Punjab,Eicher Pro 3015,107,Jai Ganesh Vehicles,138920863,Fleet Owner,Institutional
+2024-03-21,Gujarat,Eicher Pro 6025,118,Metro Trucks,151009321,Government,Direct
+2024-02-28,Maharashtra,Skyline Pro,135,S.K. Motors,201394563,Retail,Dealer
+2024-10-02,Karnataka,Eicher Pro 6025,188,Yash Auto,249702900,Fleet Owner,Institutional
+2024-05-09,Karnataka,Eicher Pro 6025,98,Yash Auto,108981076,Government,Dealer
+2024-11-26,Punjab,Eicher Pro 3015,129,Metro Trucks,159107327,Retail,Direct
+2024-04-26,Karnataka,Eicher Pro 6025,11,Yash Auto,15466196,Fleet Owner,Dealer
+2024-05-01,Punjab,Eicher Pro 6025,128,Jai Ganesh Vehicles,106443095,Retail,Direct
+2024-04-10,Maharashtra,Skyline 20.15,187,Yash Auto,155970040,Government,Dealer
+2024-03-31,Karnataka,Skyline 20.15,12,Jai Ganesh Vehicles,17666201,Fleet Owner,Direct
+2024-11-05,Karnataka,Skyline 20.15,155,Metro Trucks,214896450,Fleet Owner,Institutional
+2024-09-26,Karnataka,Skyline Pro,95,S.K. Motors,104186171,Retail,Direct
+2024-09-20,Gujarat,Eicher Pro 3015,139,Yash Auto,113340972,Retail,Dealer
+2024-07-26,Maharashtra,Eicher Pro 2049,51,S.K. Motors,50194016,Government,Institutional
+2024-08-29,Tamil Nadu,Eicher Pro 2049,74,S.K. Motors,112133068,Fleet Owner,Dealer
+2024-08-26,Tamil Nadu,Eicher Pro 3015,149,Mahadev Motors,203008079,Retail,Direct
+2024-10-28,Punjab,Eicher Pro 6025,71,Yash Auto,110454889,Government,Direct
+2024-11-12,Punjab,Eicher Pro 3015,24,Mahadev Motors,24867789,Government,Institutional
+2024-08-12,Punjab,Skyline Pro,18,Jai Ganesh Vehicles,19321678,Retail,Institutional
+2024-05-31,Punjab,Eicher Pro 2049,13,Mahadev Motors,18479387,Retail,Institutional
+2024-07-14,Punjab,Skyline Pro,126,Yash Auto,133410351,Retail,Direct
+2024-04-05,Maharashtra,Eicher Pro 2049,125,Mahadev Motors,154005134,Government,Direct
+2024-06-15,Gujarat,Eicher Pro 3015,14,Mahadev Motors,19361367,Retail,Direct
+2024-11-08,Maharashtra,Eicher Pro 6025,134,Mahadev Motors,112934733,Government,Institutional
+2024-10-05,Karnataka,Eicher Pro 6025,39,Mahadev Motors,41278447,Retail,Dealer
+2024-07-29,Maharashtra,Eicher Pro 3015,154,Metro Trucks,194553887,Government,Direct
+2024-03-04,Punjab,Eicher Pro 2049,75,S.K. Motors,70770429,Fleet Owner,Direct
+2024-11-26,Maharashtra,Skyline Pro,139,Mahadev Motors,186328111,Government,Institutional
+2024-06-29,Maharashtra,Eicher Pro 2049,116,Yash Auto,129943606,Government,Dealer
+2024-12-05,Tamil Nadu,Eicher Pro 6025,102,S.K. Motors,140689412,Retail,Dealer
+2024-03-18,Punjab,Skyline 20.15,174,Metro Trucks,240240642,Government,Institutional
+2024-06-03,Tamil Nadu,Skyline Pro,130,S.K. Motors,107482469,Government,Direct
+2024-06-28,Tamil Nadu,Skyline Pro,156,S.K. Motors,214518106,Government,Direct
+2024-01-04,Punjab,Skyline Pro,73,S.K. Motors,98338815,Government,Direct
+2024-04-17,Punjab,Eicher Pro 6025,138,Jai Ganesh Vehicles,147383590,Government,Dealer
+2024-07-10,Maharashtra,Eicher Pro 2049,181,Mahadev Motors,257932338,Retail,Institutional
+2024-08-01,Maharashtra,Skyline Pro,197,Metro Trucks,213046992,Retail,Dealer
+2024-10-27,Punjab,Skyline 20.15,34,Mahadev Motors,36480828,Retail,Direct
+2024-09-27,Maharashtra,Eicher Pro 6025,37,Yash Auto,35750294,Government,Institutional
+2024-11-17,Maharashtra,Eicher Pro 3015,109,Metro Trucks,143966001,Fleet Owner,Direct
+2024-02-20,Tamil Nadu,Skyline Pro,153,Mahadev Motors,163109446,Government,Direct
+2024-03-19,Maharashtra,Skyline 20.15,55,S.K. Motors,63329629,Government,Dealer
+2024-12-05,Karnataka,Eicher Pro 6025,132,Metro Trucks,177239470,Fleet Owner,Direct
+2024-10-24,Punjab,Skyline Pro,162,Metro Trucks,212070749,Government,Institutional
+2024-02-04,Tamil Nadu,Eicher Pro 2049,12,Yash Auto,10250148,Government,Dealer
+2024-06-24,Tamil Nadu,Eicher Pro 6025,64,Mahadev Motors,80084635,Government,Direct
+2024-07-08,Tamil Nadu,Skyline Pro,85,S.K. Motors,97054476,Retail,Dealer
+2024-08-23,Maharashtra,Eicher Pro 6025,152,S.K. Motors,238613723,Retail,Dealer
+2024-05-09,Maharashtra,Eicher Pro 3015,111,S.K. Motors,103973313,Government,Dealer
+2024-03-21,Punjab,Skyline 20.15,16,Mahadev Motors,19434532,Retail,Institutional
+2024-02-19,Tamil Nadu,Skyline Pro,67,Yash Auto,80773031,Fleet Owner,Dealer
+2024-06-16,Gujarat,Skyline 20.15,48,Metro Trucks,39707944,Retail,Institutional
+2024-03-06,Karnataka,Eicher Pro 6025,170,Yash Auto,196543047,Government,Institutional
+2024-09-14,Gujarat,Eicher Pro 6025,72,S.K. Motors,68654042,Retail,Institutional
+2024-10-09,Maharashtra,Eicher Pro 2049,37,S.K. Motors,58461100,Fleet Owner,Direct
+2024-10-15,Tamil Nadu,Eicher Pro 6025,193,Metro Trucks,274165232,Retail,Dealer
+2024-03-02,Tamil Nadu,Eicher Pro 3015,34,Jai Ganesh Vehicles,31919140,Retail,Direct
+2024-06-14,Punjab,Skyline Pro,44,S.K. Motors,53893657,Fleet Owner,Dealer
+2024-11-25,Gujarat,Eicher Pro 6025,128,Yash Auto,194214036,Retail,Direct
+2024-09-25,Gujarat,Eicher Pro 6025,157,Mahadev Motors,238875282,Fleet Owner,Institutional
+2024-08-20,Tamil Nadu,Eicher Pro 6025,36,Yash Auto,52043269,Fleet Owner,Institutional
+2024-12-20,Gujarat,Eicher Pro 6025,45,Mahadev Motors,40152847,Retail,Dealer
+2024-07-26,Karnataka,Eicher Pro 2049,59,Mahadev Motors,74504740,Fleet Owner,Direct
+2024-07-26,Maharashtra,Eicher Pro 6025,152,Mahadev Motors,226450957,Retail,Institutional
+2024-09-23,Maharashtra,Eicher Pro 3015,86,Yash Auto,77286157,Retail,Institutional
+2024-03-12,Punjab,Skyline 20.15,177,Mahadev Motors,262213411,Government,Dealer
+2024-05-03,Tamil Nadu,Eicher Pro 2049,190,Yash Auto,210876832,Retail,Institutional
+2024-10-01,Punjab,Eicher Pro 3015,141,Jai Ganesh Vehicles,135759281,Fleet Owner,Direct
+2024-12-10,Tamil Nadu,Eicher Pro 3015,171,Mahadev Motors,225379134,Government,Dealer
+2024-02-07,Karnataka,Eicher Pro 2049,131,Jai Ganesh Vehicles,176368295,Fleet Owner,Institutional
+2024-04-13,Punjab,Eicher Pro 6025,70,Mahadev Motors,60640571,Retail,Dealer
+2024-06-27,Karnataka,Eicher Pro 3015,119,Mahadev Motors,186370375,Retail,Institutional
+2024-11-16,Gujarat,Skyline 20.15,198,Mahadev Motors,262777028,Government,Direct
+2024-04-06,Karnataka,Skyline 20.15,160,Metro Trucks,178014271,Fleet Owner,Institutional
+2024-01-11,Maharashtra,Eicher Pro 6025,86,Metro Trucks,129602212,Government,Direct
+2024-10-25,Karnataka,Eicher Pro 6025,68,Jai Ganesh Vehicles,56044798,Fleet Owner,Dealer
+2024-01-04,Karnataka,Skyline 20.15,155,S.K. Motors,198976437,Retail,Direct
+2024-12-15,Maharashtra,Eicher Pro 6025,86,S.K. Motors,77161629,Government,Institutional
+2024-12-24,Maharashtra,Eicher Pro 6025,28,Yash Auto,22882670,Government,Institutional
+2024-05-22,Maharashtra,Eicher Pro 3015,62,Jai Ganesh Vehicles,66392244,Fleet Owner,Direct
+2024-02-14,Punjab,Eicher Pro 3015,15,S.K. Motors,22564093,Retail,Dealer
+2024-03-18,Tamil Nadu,Skyline Pro,95,Mahadev Motors,100443267,Retail,Direct
+2024-01-17,Maharashtra,Skyline Pro,171,Mahadev Motors,244140812,Government,Institutional
+2024-12-04,Punjab,Eicher Pro 6025,143,S.K. Motors,119879487,Government,Dealer
+2024-09-12,Punjab,Skyline 20.15,90,Jai Ganesh Vehicles,77629772,Government,Institutional
+2024-08-09,Gujarat,Skyline Pro,75,Metro Trucks,84126505,Government,Dealer
+2024-03-19,Maharashtra,Eicher Pro 2049,54,Yash Auto,82105711,Fleet Owner,Dealer
+2024-11-09,Maharashtra,Eicher Pro 2049,183,Mahadev Motors,286139068,Government,Direct
+2024-09-23,Karnataka,Eicher Pro 3015,80,Jai Ganesh Vehicles,124470668,Government,Direct
+2024-10-01,Tamil Nadu,Skyline 20.15,28,Jai Ganesh Vehicles,34717806,Government,Direct
+2024-02-25,Tamil Nadu,Skyline Pro,186,S.K. Motors,242824565,Government,Institutional
+2024-09-07,Maharashtra,Skyline 20.15,76,Mahadev Motors,103487215,Fleet Owner,Direct
+2024-08-21,Karnataka,Skyline Pro,156,Metro Trucks,160131602,Government,Dealer
+2024-10-14,Maharashtra,Skyline 20.15,40,Mahadev Motors,37758258,Fleet Owner,Direct
+2024-03-15,Gujarat,Eicher Pro 2049,136,Metro Trucks,209711760,Fleet Owner,Institutional
+2024-09-24,Gujarat,Eicher Pro 6025,15,Mahadev Motors,19375115,Retail,Dealer
+2024-06-23,Gujarat,Eicher Pro 6025,130,Mahadev Motors,189937548,Retail,Institutional
+2024-09-22,Punjab,Skyline 20.15,98,Jai Ganesh Vehicles,103793752,Retail,Direct
+2024-02-05,Tamil Nadu,Eicher Pro 6025,152,Mahadev Motors,158380886,Fleet Owner,Dealer
+2024-02-28,Maharashtra,Skyline 20.15,37,Yash Auto,52878746,Government,Institutional
+2024-11-19,Gujarat,Skyline Pro,114,Metro Trucks,132256905,Retail,Dealer
+2024-08-17,Punjab,Eicher Pro 2049,69,S.K. Motors,98529288,Retail,Institutional
+2024-04-21,Maharashtra,Eicher Pro 6025,82,Jai Ganesh Vehicles,74144968,Fleet Owner,Institutional
+2024-06-17,Tamil Nadu,Eicher Pro 6025,72,Yash Auto,94443773,Retail,Institutional
+2024-04-28,Gujarat,Eicher Pro 2049,131,Jai Ganesh Vehicles,198917773,Retail,Dealer
+2024-01-16,Gujarat,Eicher Pro 3015,97,Mahadev Motors,85995308,Fleet Owner,Institutional
+2024-12-03,Tamil Nadu,Eicher Pro 3015,17,Yash Auto,19255478,Retail,Direct
+2024-01-07,Karnataka,Skyline Pro,37,S.K. Motors,46048775,Government,Dealer
+2024-08-12,Punjab,Skyline 20.15,58,Yash Auto,82805309,Retail,Direct
+2024-08-22,Karnataka,Eicher Pro 6025,78,Metro Trucks,73810153,Retail,Dealer
+2024-08-10,Gujarat,Eicher Pro 6025,111,Jai Ganesh Vehicles,134771182,Retail,Direct
+2024-07-11,Maharashtra,Eicher Pro 3015,11,S.K. Motors,13692304,Fleet Owner,Dealer
+2024-12-21,Punjab,Eicher Pro 2049,82,S.K. Motors,86173637,Government,Dealer
+2024-06-08,Karnataka,Eicher Pro 2049,198,Metro Trucks,245174644,Retail,Dealer
+2024-05-12,Gujarat,Skyline Pro,130,Metro Trucks,183692598,Retail,Direct
+2024-10-16,Karnataka,Eicher Pro 2049,91,Jai Ganesh Vehicles,122025250,Retail,Dealer
+2024-01-29,Tamil Nadu,Eicher Pro 2049,160,S.K. Motors,173201738,Government,Institutional
+2024-08-22,Tamil Nadu,Skyline 20.15,138,S.K. Motors,216155039,Government,Institutional
+2024-01-23,Karnataka,Eicher Pro 6025,47,S.K. Motors,72388879,Fleet Owner,Dealer
+2024-03-13,Tamil Nadu,Skyline 20.15,108,Yash Auto,151990944,Retail,Institutional
+2024-11-18,Maharashtra,Skyline 20.15,15,Yash Auto,22697313,Fleet Owner,Institutional
+2024-11-06,Punjab,Eicher Pro 2049,21,Yash Auto,30398294,Fleet Owner,Dealer
+2024-10-26,Maharashtra,Skyline Pro,73,Jai Ganesh Vehicles,109060783,Government,Dealer
+2024-06-17,Gujarat,Eicher Pro 6025,36,Metro Trucks,55645488,Retail,Dealer
+2024-10-02,Gujarat,Eicher Pro 2049,196,Mahadev Motors,189824582,Government,Direct
+2024-12-13,Gujarat,Eicher Pro 6025,173,S.K. Motors,260188873,Fleet Owner,Dealer
+2024-04-29,Karnataka,Skyline 20.15,130,Jai Ganesh Vehicles,111476966,Retail,Direct
+2024-01-21,Gujarat,Eicher Pro 2049,135,Metro Trucks,211500399,Retail,Institutional
+2024-03-01,Karnataka,Eicher Pro 3015,135,Mahadev Motors,125616332,Retail,Dealer
+2024-10-28,Tamil Nadu,Eicher Pro 3015,33,S.K. Motors,29708348,Government,Dealer
+2024-08-29,Karnataka,Skyline Pro,185,S.K. Motors,290552267,Fleet Owner,Institutional
+2024-11-16,Tamil Nadu,Eicher Pro 3015,43,S.K. Motors,62941549,Government,Direct
+2024-10-13,Maharashtra,Eicher Pro 3015,24,Jai Ganesh Vehicles,20027906,Government,Dealer
+2024-06-28,Gujarat,Skyline 20.15,178,Metro Trucks,159339211,Government,Dealer
+2024-10-05,Gujarat,Skyline 20.15,117,Metro Trucks,156690137,Fleet Owner,Direct
+2024-06-27,Gujarat,Eicher Pro 3015,121,S.K. Motors,148559214,Fleet Owner,Institutional
+2024-06-13,Tamil Nadu,Eicher Pro 6025,121,Jai Ganesh Vehicles,190689961,Government,Institutional
+2024-04-12,Karnataka,Eicher Pro 6025,70,Yash Auto,81726267,Retail,Dealer
+2024-03-02,Karnataka,Eicher Pro 6025,132,Yash Auto,173023135,Government,Direct
+2024-08-27,Maharashtra,Eicher Pro 6025,116,Metro Trucks,140823400,Retail,Dealer
+2024-07-19,Maharashtra,Eicher Pro 2049,180,Yash Auto,251995490,Retail,Institutional
+2024-01-03,Maharashtra,Skyline Pro,54,Yash Auto,69731988,Government,Dealer
+2024-03-19,Maharashtra,Skyline 20.15,194,Mahadev Motors,273923938,Fleet Owner,Dealer
+2024-07-26,Maharashtra,Skyline 20.15,33,Jai Ganesh Vehicles,36683331,Government,Direct
+2024-03-24,Karnataka,Skyline Pro,173,Metro Trucks,193826230,Retail,Institutional
+2024-04-12,Punjab,Eicher Pro 2049,145,Metro Trucks,230056325,Retail,Direct
+2024-03-24,Maharashtra,Skyline Pro,110,Jai Ganesh Vehicles,97831151,Government,Institutional
+2024-04-29,Maharashtra,Eicher Pro 6025,17,Metro Trucks,22054896,Government,Institutional
+2024-02-29,Maharashtra,Eicher Pro 2049,118,S.K. Motors,150148478,Government,Institutional
+2024-12-23,Punjab,Skyline Pro,132,Jai Ganesh Vehicles,180944048,Fleet Owner,Dealer
+2024-08-30,Karnataka,Skyline 20.15,113,Jai Ganesh Vehicles,113018052,Government,Dealer
+2024-04-20,Gujarat,Eicher Pro 6025,79,Metro Trucks,80181894,Government,Dealer
+2024-08-12,Punjab,Skyline Pro,25,Metro Trucks,27749028,Government,Dealer
+2024-04-07,Karnataka,Skyline 20.15,194,Jai Ganesh Vehicles,212653455,Retail,Direct
+2024-06-14,Tamil Nadu,Eicher Pro 6025,173,Jai Ganesh Vehicles,157943770,Retail,Dealer
+2024-04-11,Punjab,Eicher Pro 3015,22,Metro Trucks,27056532,Fleet Owner,Dealer
+2024-05-31,Tamil Nadu,Eicher Pro 3015,89,Mahadev Motors,84777568,Government,Direct
+2024-01-02,Gujarat,Skyline Pro,189,Mahadev Motors,210495923,Retail,Direct
+2024-06-03,Tamil Nadu,Eicher Pro 2049,82,Mahadev Motors,116558280,Fleet Owner,Direct
+2024-09-17,Punjab,Eicher Pro 3015,130,Mahadev Motors,136879150,Government,Dealer
+2024-01-08,Karnataka,Skyline Pro,52,Metro Trucks,70124720,Fleet Owner,Institutional
+2024-04-24,Karnataka,Skyline Pro,14,Mahadev Motors,13860218,Government,Institutional
+2024-09-16,Tamil Nadu,Eicher Pro 2049,134,Metro Trucks,154134469,Retail,Direct
+2024-06-17,Karnataka,Skyline 20.15,130,S.K. Motors,185982639,Government,Institutional
+2024-11-09,Maharashtra,Eicher Pro 2049,74,S.K. Motors,82738918,Government,Direct
+2024-12-26,Punjab,Eicher Pro 2049,102,S.K. Motors,111551740,Government,Institutional
+2024-03-01,Gujarat,Skyline Pro,197,Metro Trucks,256827358,Fleet Owner,Dealer
+2024-03-17,Maharashtra,Eicher Pro 2049,24,Metro Trucks,36027576,Retail,Dealer
+2024-06-09,Karnataka,Eicher Pro 6025,106,Jai Ganesh Vehicles,126551487,Fleet Owner,Dealer
+2024-08-15,Punjab,Eicher Pro 3015,48,Mahadev Motors,46611661,Fleet Owner,Institutional
+2024-01-29,Tamil Nadu,Eicher Pro 6025,94,Jai Ganesh Vehicles,125841686,Government,Institutional
+2024-03-28,Karnataka,Skyline Pro,39,Jai Ganesh Vehicles,57772765,Fleet Owner,Institutional
+2024-05-31,Punjab,Eicher Pro 2049,128,Mahadev Motors,128747406,Retail,Dealer
+2024-09-13,Karnataka,Eicher Pro 6025,34,Metro Trucks,53665546,Fleet Owner,Institutional
+2024-09-07,Maharashtra,Skyline Pro,116,Metro Trucks,177980277,Retail,Institutional
+2024-04-01,Karnataka,Skyline Pro,40,Mahadev Motors,50701730,Retail,Institutional
+2024-03-13,Karnataka,Eicher Pro 6025,25,S.K. Motors,20483306,Retail,Institutional
+2024-11-26,Maharashtra,Eicher Pro 2049,120,Metro Trucks,104752161,Government,Direct
+2024-11-10,Gujarat,Eicher Pro 2049,197,Yash Auto,182404575,Fleet Owner,Institutional
+2024-09-10,Karnataka,Skyline Pro,160,Metro Trucks,147512467,Fleet Owner,Dealer
+2024-04-30,Gujarat,Eicher Pro 3015,84,Jai Ganesh Vehicles,117954437,Retail,Institutional
+2024-02-07,Karnataka,Skyline Pro,45,Jai Ganesh Vehicles,38587592,Fleet Owner,Institutional
+2024-03-18,Punjab,Eicher Pro 3015,115,Metro Trucks,132856051,Government,Dealer
+2024-05-19,Karnataka,Skyline 20.15,193,Metro Trucks,242024971,Fleet Owner,Institutional
+2024-02-04,Tamil Nadu,Eicher Pro 2049,92,Mahadev Motors,118121544,Retail,Dealer
+2024-07-11,Karnataka,Eicher Pro 3015,89,Metro Trucks,133222442,Fleet Owner,Institutional
+2024-09-21,Karnataka,Eicher Pro 2049,100,Yash Auto,89270422,Fleet Owner,Dealer
+2024-12-27,Karnataka,Skyline 20.15,136,Yash Auto,120421693,Retail,Dealer
+2024-04-18,Maharashtra,Skyline Pro,57,Mahadev Motors,50047750,Retail,Direct
+2024-07-31,Maharashtra,Eicher Pro 3015,67,S.K. Motors,96317780,Fleet Owner,Dealer
+2024-05-09,Maharashtra,Skyline Pro,117,Metro Trucks,176765487,Fleet Owner,Direct
+2024-02-25,Karnataka,Eicher Pro 2049,143,Mahadev Motors,176000065,Retail,Dealer
+2024-01-29,Karnataka,Eicher Pro 6025,25,Yash Auto,27604867,Fleet Owner,Direct
+2024-09-07,Karnataka,Eicher Pro 3015,69,Jai Ganesh Vehicles,106514810,Retail,Direct
+2024-01-17,Karnataka,Eicher Pro 3015,79,Yash Auto,126382022,Retail,Institutional
+2024-02-21,Maharashtra,Skyline Pro,141,S.K. Motors,151036646,Government,Institutional
+2024-05-22,Tamil Nadu,Skyline 20.15,138,Metro Trucks,195361436,Retail,Direct
+2024-08-12,Tamil Nadu,Skyline 20.15,93,Mahadev Motors,128332005,Fleet Owner,Direct
+2024-12-02,Punjab,Skyline Pro,37,S.K. Motors,57662644,Fleet Owner,Direct
+2024-03-19,Tamil Nadu,Eicher Pro 6025,39,Yash Auto,40873922,Retail,Institutional
+2024-08-08,Tamil Nadu,Eicher Pro 2049,84,Jai Ganesh Vehicles,81296340,Government,Dealer
+2024-02-07,Gujarat,Eicher Pro 6025,35,Jai Ganesh Vehicles,49710380,Government,Dealer
+2024-07-12,Maharashtra,Skyline 20.15,121,Mahadev Motors,113018939,Government,Direct
+2024-10-14,Punjab,Eicher Pro 2049,45,Jai Ganesh Vehicles,56215405,Retail,Institutional
+2024-06-11,Tamil Nadu,Eicher Pro 6025,108,Metro Trucks,150572063,Fleet Owner,Direct
+2024-03-10,Gujarat,Eicher Pro 2049,98,Jai Ganesh Vehicles,92174577,Government,Dealer
+2024-11-06,Punjab,Eicher Pro 3015,67,S.K. Motors,69691712,Fleet Owner,Dealer
+2024-10-14,Tamil Nadu,Eicher Pro 3015,184,S.K. Motors,157922443,Retail,Direct
+2024-02-11,Punjab,Skyline 20.15,168,Metro Trucks,242801928,Fleet Owner,Institutional
+2024-08-08,Karnataka,Eicher Pro 6025,106,Jai Ganesh Vehicles,113401567,Retail,Institutional
+2024-03-06,Punjab,Eicher Pro 3015,132,S.K. Motors,210082185,Retail,Dealer
+2024-07-03,Maharashtra,Eicher Pro 6025,85,Mahadev Motors,76830032,Government,Dealer
+2024-10-28,Tamil Nadu,Skyline 20.15,101,Mahadev Motors,121616736,Retail,Direct
+2024-08-07,Punjab,Eicher Pro 3015,35,Jai Ganesh Vehicles,40580518,Fleet Owner,Dealer
+2024-06-03,Tamil Nadu,Eicher Pro 3015,146,Jai Ganesh Vehicles,217576545,Fleet Owner,Direct
+2024-10-17,Punjab,Eicher Pro 3015,69,Jai Ganesh Vehicles,92802971,Government,Institutional
+2024-10-19,Gujarat,Skyline Pro,106,Metro Trucks,110556077,Retail,Institutional
+2024-10-08,Tamil Nadu,Skyline 20.15,102,S.K. Motors,160936119,Retail,Institutional
+2024-09-27,Karnataka,Eicher Pro 3015,87,Jai Ganesh Vehicles,71417885,Government,Direct
+2024-06-27,Gujarat,Skyline 20.15,126,Mahadev Motors,165390876,Government,Dealer
+2024-01-04,Maharashtra,Eicher Pro 6025,108,S.K. Motors,96253367,Government,Institutional
+2024-06-21,Gujarat,Skyline Pro,29,S.K. Motors,34726828,Retail,Dealer
+2024-09-06,Maharashtra,Eicher Pro 3015,41,Mahadev Motors,39652912,Retail,Direct
+2024-07-21,Maharashtra,Eicher Pro 2049,22,Metro Trucks,23255371,Fleet Owner,Institutional
+2024-12-14,Maharashtra,Skyline Pro,52,Metro Trucks,56220262,Fleet Owner,Direct
+2024-11-02,Punjab,Eicher Pro 6025,39,S.K. Motors,51965097,Retail,Institutional
+2024-01-10,Tamil Nadu,Eicher Pro 3015,35,Yash Auto,42284251,Government,Institutional
+2024-10-23,Maharashtra,Skyline 20.15,47,S.K. Motors,73091511,Retail,Dealer
+2024-12-22,Tamil Nadu,Skyline Pro,43,Metro Trucks,37485944,Fleet Owner,Dealer
+2024-01-15,Gujarat,Skyline 20.15,150,Metro Trucks,235896688,Government,Dealer
+2024-06-16,Tamil Nadu,Skyline Pro,95,Jai Ganesh Vehicles,149163743,Retail,Institutional
+2024-09-22,Maharashtra,Eicher Pro 6025,105,Mahadev Motors,165774167,Retail,Direct
+2024-11-04,Tamil Nadu,Eicher Pro 6025,115,Metro Trucks,117182177,Government,Dealer
+2024-05-12,Tamil Nadu,Eicher Pro 3015,30,Jai Ganesh Vehicles,36224167,Government,Institutional
+2024-03-28,Tamil Nadu,Skyline Pro,182,S.K. Motors,190285026,Retail,Dealer
+2024-05-20,Maharashtra,Skyline Pro,183,Mahadev Motors,241122729,Fleet Owner,Institutional
+2024-07-23,Tamil Nadu,Skyline 20.15,80,Metro Trucks,127713349,Fleet Owner,Direct
+2024-01-04,Karnataka,Skyline 20.15,33,S.K. Motors,50498990,Government,Dealer
+2024-09-25,Karnataka,Eicher Pro 6025,79,Metro Trucks,87619771,Fleet Owner,Institutional
+2024-03-30,Punjab,Eicher Pro 2049,120,Yash Auto,167374072,Retail,Dealer
+2024-12-22,Gujarat,Eicher Pro 2049,175,Mahadev Motors,242096789,Fleet Owner,Dealer
+2024-11-01,Punjab,Skyline 20.15,141,Yash Auto,219837605,Government,Institutional
+2024-07-29,Karnataka,Eicher Pro 3015,36,Jai Ganesh Vehicles,53968587,Government,Institutional
+2024-09-29,Karnataka,Skyline 20.15,101,S.K. Motors,101949343,Fleet Owner,Institutional
+2024-11-30,Maharashtra,Eicher Pro 3015,54,Jai Ganesh Vehicles,55296975,Fleet Owner,Direct
+2024-03-14,Tamil Nadu,Skyline 20.15,20,Mahadev Motors,28538979,Government,Dealer
+2024-04-16,Maharashtra,Skyline 20.15,36,Jai Ganesh Vehicles,35627881,Fleet Owner,Direct
+2024-02-28,Karnataka,Skyline 20.15,87,S.K. Motors,91950046,Government,Institutional
+2024-09-17,Tamil Nadu,Eicher Pro 2049,96,Jai Ganesh Vehicles,147817166,Government,Direct
+2024-09-25,Punjab,Eicher Pro 6025,112,Metro Trucks,140094640,Retail,Direct
+2024-07-03,Punjab,Eicher Pro 2049,90,S.K. Motors,121967094,Retail,Institutional
+2024-10-03,Gujarat,Skyline Pro,21,Yash Auto,18603816,Fleet Owner,Direct
+2024-12-01,Tamil Nadu,Eicher Pro 6025,44,Yash Auto,48380873,Retail,Direct
+2024-01-25,Karnataka,Eicher Pro 2049,129,Yash Auto,180820135,Government,Institutional
+2024-08-10,Tamil Nadu,Eicher Pro 2049,115,Metro Trucks,120670108,Government,Direct
+2024-12-22,Gujarat,Eicher Pro 3015,118,Mahadev Motors,185071060,Government,Institutional
+2024-11-19,Maharashtra,Eicher Pro 3015,71,Metro Trucks,71579913,Retail,Direct
+2024-09-18,Karnataka,Skyline Pro,114,Yash Auto,102463659,Government,Institutional
+2024-09-18,Maharashtra,Eicher Pro 3015,127,Metro Trucks,164529302,Retail,Dealer
+2024-12-25,Maharashtra,Eicher Pro 6025,57,Mahadev Motors,89310656,Retail,Direct
+2024-12-14,Tamil Nadu,Skyline Pro,152,S.K. Motors,178353207,Government,Institutional
+2024-05-05,Karnataka,Skyline 20.15,153,Yash Auto,186903661,Government,Institutional
+2024-04-02,Gujarat,Skyline 20.15,154,Mahadev Motors,149902158,Retail,Institutional
+2024-08-14,Tamil Nadu,Skyline 20.15,37,Mahadev Motors,42487170,Fleet Owner,Direct
+2024-02-18,Maharashtra,Eicher Pro 2049,74,S.K. Motors,74321503,Fleet Owner,Institutional
+2024-01-20,Tamil Nadu,Eicher Pro 3015,82,Yash Auto,127583786,Government,Dealer
+2024-03-31,Karnataka,Eicher Pro 2049,54,Jai Ganesh Vehicles,55081438,Government,Institutional
+2024-12-22,Tamil Nadu,Skyline 20.15,132,S.K. Motors,166207170,Government,Institutional
+2024-03-10,Maharashtra,Eicher Pro 3015,46,Mahadev Motors,44153658,Government,Institutional
+2024-01-28,Punjab,Eicher Pro 2049,156,Mahadev Motors,230475415,Government,Direct
+2024-07-13,Punjab,Eicher Pro 6025,69,Metro Trucks,76106973,Fleet Owner,Dealer
+2024-04-22,Tamil Nadu,Skyline 20.15,35,Metro Trucks,51422639,Fleet Owner,Dealer
+2024-11-07,Gujarat,Eicher Pro 6025,69,S.K. Motors,96610018,Fleet Owner,Direct
+2024-01-21,Tamil Nadu,Eicher Pro 3015,168,Mahadev Motors,139668066,Retail,Dealer
+2024-06-01,Gujarat,Eicher Pro 3015,95,Yash Auto,93898847,Fleet Owner,Institutional
+2024-04-23,Tamil Nadu,Eicher Pro 3015,146,Jai Ganesh Vehicles,173505495,Retail,Dealer
+2024-05-14,Karnataka,Eicher Pro 3015,109,Mahadev Motors,153858504,Retail,Direct
+2024-04-15,Karnataka,Skyline Pro,143,Jai Ganesh Vehicles,144210438,Government,Dealer
+2024-02-09,Punjab,Eicher Pro 6025,192,Jai Ganesh Vehicles,177754605,Fleet Owner,Dealer
+2024-12-23,Gujarat,Eicher Pro 2049,18,Metro Trucks,27462814,Retail,Direct
+2024-12-07,Tamil Nadu,Eicher Pro 3015,75,Mahadev Motors,94037099,Government,Institutional
+2024-10-24,Punjab,Eicher Pro 3015,92,Jai Ganesh Vehicles,146568082,Retail,Dealer
+2024-09-03,Karnataka,Eicher Pro 3015,185,Jai Ganesh Vehicles,245377761,Government,Dealer
+2024-10-16,Karnataka,Eicher Pro 2049,114,S.K. Motors,132392341,Retail,Dealer
+2024-06-06,Tamil Nadu,Eicher Pro 2049,128,Yash Auto,118572777,Government,Dealer
+2024-09-11,Gujarat,Eicher Pro 3015,153,Mahadev Motors,224191774,Government,Direct
+2024-07-10,Maharashtra,Eicher Pro 6025,36,Metro Trucks,40680959,Fleet Owner,Dealer
+2024-08-13,Karnataka,Skyline Pro,82,S.K. Motors,87956366,Government,Institutional
+2024-04-04,Tamil Nadu,Skyline 20.15,97,S.K. Motors,84114598,Retail,Dealer
+2024-09-10,Gujarat,Skyline 20.15,190,Jai Ganesh Vehicles,287605699,Fleet Owner,Direct
+2024-05-26,Gujarat,Eicher Pro 3015,158,Metro Trucks,242098716,Fleet Owner,Direct
+2024-12-06,Karnataka,Skyline Pro,52,Metro Trucks,47272073,Retail,Direct
+2024-08-05,Karnataka,Skyline 20.15,87,Yash Auto,92973962,Retail,Dealer
+2024-05-25,Karnataka,Skyline 20.15,185,Mahadev Motors,290610754,Fleet Owner,Direct
+2024-04-09,Karnataka,Eicher Pro 2049,130,Metro Trucks,207995211,Government,Institutional
+2024-11-05,Punjab,Skyline Pro,126,Jai Ganesh Vehicles,143428342,Government,Dealer
+2024-04-27,Tamil Nadu,Eicher Pro 3015,178,Metro Trucks,237196779,Government,Institutional
+2024-11-02,Maharashtra,Skyline Pro,157,Jai Ganesh Vehicles,145043950,Retail,Direct
+2024-08-16,Maharashtra,Eicher Pro 3015,138,Yash Auto,172672243,Retail,Dealer
+2024-06-10,Karnataka,Eicher Pro 6025,75,Mahadev Motors,95348169,Fleet Owner,Institutional
+2024-10-17,Tamil Nadu,Skyline Pro,99,Yash Auto,126197136,Fleet Owner,Institutional
+2024-01-26,Punjab,Skyline Pro,145,S.K. Motors,178422345,Fleet Owner,Dealer
+2024-01-17,Maharashtra,Eicher Pro 3015,111,Jai Ganesh Vehicles,136599787,Government,Institutional
+2024-07-14,Tamil Nadu,Eicher Pro 6025,123,Yash Auto,152381306,Government,Institutional
+2024-11-08,Punjab,Eicher Pro 6025,68,Yash Auto,72098384,Fleet Owner,Dealer
+2024-01-05,Maharashtra,Eicher Pro 6025,16,Yash Auto,20860540,Fleet Owner,Dealer
+2024-01-16,Tamil Nadu,Eicher Pro 2049,147,Mahadev Motors,120448944,Retail,Dealer
+2024-01-15,Gujarat,Eicher Pro 6025,28,Jai Ganesh Vehicles,25886515,Government,Dealer
+2024-11-16,Tamil Nadu,Eicher Pro 6025,109,S.K. Motors,139424926,Government,Dealer
+2024-10-03,Punjab,Skyline 20.15,137,Jai Ganesh Vehicles,130696407,Retail,Dealer
+2024-02-27,Gujarat,Skyline Pro,175,Mahadev Motors,222730059,Retail,Institutional
+2024-06-11,Karnataka,Eicher Pro 3015,30,S.K. Motors,29312535,Government,Direct
+2024-10-11,Punjab,Skyline 20.15,52,Jai Ganesh Vehicles,58105863,Retail,Dealer
+2024-07-08,Maharashtra,Eicher Pro 6025,88,Metro Trucks,91658059,Fleet Owner,Institutional
+2024-04-16,Gujarat,Eicher Pro 3015,116,Yash Auto,180960756,Government,Institutional
+2024-05-28,Tamil Nadu,Skyline 20.15,45,Mahadev Motors,50351866,Fleet Owner,Direct
+2024-01-21,Maharashtra,Eicher Pro 6025,152,Yash Auto,140587345,Retail,Dealer
+2024-07-15,Karnataka,Eicher Pro 3015,158,S.K. Motors,215755018,Government,Institutional
+2024-02-13,Maharashtra,Skyline Pro,37,Jai Ganesh Vehicles,35876309,Government,Direct
+2024-12-14,Maharashtra,Eicher Pro 6025,172,Mahadev Motors,138642779,Retail,Institutional
+2024-05-04,Tamil Nadu,Skyline Pro,16,Metro Trucks,22935933,Government,Dealer
+2024-11-12,Tamil Nadu,Eicher Pro 2049,44,Mahadev Motors,67919277,Government,Institutional
+2024-10-25,Tamil Nadu,Eicher Pro 2049,67,Jai Ganesh Vehicles,75464864,Retail,Dealer
+2024-05-26,Maharashtra,Skyline Pro,63,Metro Trucks,100292993,Government,Dealer
+2024-07-09,Karnataka,Skyline Pro,158,Yash Auto,241885557,Fleet Owner,Dealer
+2024-10-20,Punjab,Eicher Pro 2049,69,Jai Ganesh Vehicles,76842326,Government,Dealer
+2024-08-16,Gujarat,Eicher Pro 6025,73,Jai Ganesh Vehicles,66501097,Fleet Owner,Direct
+2024-11-06,Karnataka,Eicher Pro 3015,83,S.K. Motors,105982803,Government,Institutional
+2024-04-23,Tamil Nadu,Eicher Pro 2049,57,Mahadev Motors,54443577,Fleet Owner,Direct
+2024-01-31,Maharashtra,Eicher Pro 2049,48,Mahadev Motors,54972496,Retail,Direct
+2024-03-27,Tamil Nadu,Eicher Pro 3015,45,Mahadev Motors,48713265,Retail,Direct
+2024-03-03,Gujarat,Skyline Pro,176,Mahadev Motors,263574275,Retail,Institutional
+2024-08-30,Tamil Nadu,Eicher Pro 3015,106,Jai Ganesh Vehicles,156095279,Government,Institutional
+2024-01-17,Gujarat,Eicher Pro 2049,44,S.K. Motors,54831553,Fleet Owner,Direct
+2024-06-11,Gujarat,Eicher Pro 3015,54,Yash Auto,78144736,Government,Direct
+2024-05-24,Gujarat,Skyline Pro,94,Mahadev Motors,76240127,Retail,Institutional
+2024-01-07,Tamil Nadu,Eicher Pro 6025,156,S.K. Motors,154619228,Fleet Owner,Dealer
+2024-06-21,Karnataka,Skyline 20.15,141,Yash Auto,152503334,Government,Direct
+2024-08-08,Gujarat,Skyline Pro,43,Yash Auto,57969081,Retail,Institutional
+2024-02-16,Gujarat,Eicher Pro 6025,99,Metro Trucks,124151993,Government,Dealer
+2024-09-08,Gujarat,Skyline Pro,39,Yash Auto,36489475,Fleet Owner,Dealer
+2024-08-27,Gujarat,Skyline Pro,13,Mahadev Motors,10469006,Retail,Institutional
+2024-03-15,Punjab,Eicher Pro 3015,79,Mahadev Motors,90557794,Fleet Owner,Dealer
+2024-10-25,Maharashtra,Eicher Pro 3015,85,Mahadev Motors,118209939,Fleet Owner,Direct
+2024-07-27,Punjab,Skyline 20.15,129,S.K. Motors,194435271,Fleet Owner,Institutional
+2024-04-05,Karnataka,Eicher Pro 6025,162,Yash Auto,188767853,Retail,Dealer
+2024-07-24,Maharashtra,Eicher Pro 6025,79,Yash Auto,89652683,Fleet Owner,Dealer
+2024-08-05,Karnataka,Skyline 20.15,173,Mahadev Motors,162633388,Government,Institutional
+2024-03-07,Gujarat,Skyline Pro,92,S.K. Motors,121618472,Retail,Institutional
+2024-03-12,Punjab,Eicher Pro 6025,107,Yash Auto,111382446,Government,Dealer
+2024-05-15,Gujarat,Eicher Pro 6025,45,Yash Auto,63459875,Government,Institutional
+2024-11-05,Karnataka,Eicher Pro 2049,131,S.K. Motors,173324131,Fleet Owner,Dealer
+2024-06-15,Punjab,Skyline 20.15,182,S.K. Motors,183620467,Fleet Owner,Dealer
+2024-02-16,Maharashtra,Eicher Pro 6025,52,Metro Trucks,76155648,Retail,Dealer
+2024-11-27,Punjab,Eicher Pro 6025,113,S.K. Motors,139112976,Fleet Owner,Institutional
+2024-06-12,Tamil Nadu,Skyline 20.15,88,Yash Auto,107065135,Government,Institutional
+2024-08-25,Tamil Nadu,Eicher Pro 6025,68,S.K. Motors,86100641,Fleet Owner,Institutional
+2024-02-22,Gujarat,Eicher Pro 6025,69,Yash Auto,100572084,Retail,Direct
+2024-12-24,Tamil Nadu,Skyline 20.15,141,Yash Auto,134507022,Retail,Direct
+2024-10-14,Karnataka,Eicher Pro 3015,163,Yash Auto,166803335,Retail,Direct
+2024-06-11,Karnataka,Eicher Pro 2049,192,Metro Trucks,233049671,Retail,Dealer
+2024-12-27,Punjab,Eicher Pro 3015,155,S.K. Motors,162134285,Government,Institutional
+2024-03-01,Tamil Nadu,Skyline Pro,44,Yash Auto,47088784,Retail,Direct
+2024-07-09,Karnataka,Eicher Pro 2049,12,Mahadev Motors,11506509,Retail,Dealer
+2024-07-01,Tamil Nadu,Eicher Pro 2049,63,Metro Trucks,78818077,Retail,Dealer
+2024-08-20,Karnataka,Skyline 20.15,56,S.K. Motors,67216746,Retail,Direct
+2024-07-20,Gujarat,Skyline Pro,111,S.K. Motors,147017250,Fleet Owner,Institutional
+2024-04-20,Maharashtra,Eicher Pro 2049,163,Jai Ganesh Vehicles,163370690,Fleet Owner,Dealer
+2024-09-18,Maharashtra,Eicher Pro 2049,186,S.K. Motors,266777948,Fleet Owner,Dealer
+2024-10-12,Gujarat,Eicher Pro 6025,129,Yash Auto,165316236,Government,Direct
+2024-04-13,Gujarat,Eicher Pro 6025,74,S.K. Motors,65329332,Government,Institutional
+2024-05-15,Maharashtra,Eicher Pro 6025,47,Jai Ganesh Vehicles,69573955,Fleet Owner,Dealer
+2024-05-05,Tamil Nadu,Eicher Pro 6025,152,S.K. Motors,199166796,Fleet Owner,Institutional
+2024-06-27,Tamil Nadu,Eicher Pro 3015,193,Metro Trucks,155373892,Retail,Institutional
+2024-08-28,Gujarat,Skyline Pro,175,Jai Ganesh Vehicles,186970312,Government,Institutional
+2024-07-17,Karnataka,Eicher Pro 2049,85,Metro Trucks,95649123,Government,Direct
+2024-12-02,Tamil Nadu,Skyline Pro,16,S.K. Motors,21008062,Government,Direct
+2024-04-02,Maharashtra,Eicher Pro 6025,97,Yash Auto,91649234,Government,Dealer
+2024-02-14,Tamil Nadu,Skyline Pro,131,Jai Ganesh Vehicles,169264276,Government,Dealer
+2024-01-22,Punjab,Eicher Pro 6025,119,Mahadev Motors,153511676,Fleet Owner,Dealer
+2024-10-31,Tamil Nadu,Eicher Pro 3015,59,Mahadev Motors,82453503,Government,Institutional
+2024-12-14,Maharashtra,Skyline Pro,158,Yash Auto,249190744,Government,Direct
+2024-06-11,Maharashtra,Skyline Pro,108,Mahadev Motors,136434649,Retail,Institutional
+2024-09-06,Maharashtra,Skyline Pro,13,S.K. Motors,12162460,Retail,Institutional
+2024-05-17,Maharashtra,Eicher Pro 2049,124,S.K. Motors,187066425,Retail,Dealer
+2024-12-08,Karnataka,Eicher Pro 3015,121,Yash Auto,140919754,Fleet Owner,Direct
+2024-07-13,Karnataka,Eicher Pro 6025,48,Jai Ganesh Vehicles,69109929,Government,Institutional
+2024-08-25,Maharashtra,Skyline Pro,83,Yash Auto,72397302,Fleet Owner,Institutional
+2024-05-04,Tamil Nadu,Eicher Pro 2049,125,Mahadev Motors,126860798,Fleet Owner,Direct
+2024-03-14,Maharashtra,Eicher Pro 6025,145,Mahadev Motors,151794299,Government,Direct
+2024-05-12,Maharashtra,Eicher Pro 3015,184,Jai Ganesh Vehicles,243638906,Retail,Dealer
+2024-11-14,Karnataka,Skyline 20.15,31,S.K. Motors,25069382,Fleet Owner,Direct
+2024-11-30,Gujarat,Eicher Pro 3015,110,Yash Auto,154043208,Retail,Dealer
+2024-07-29,Punjab,Eicher Pro 6025,63,Metro Trucks,59243551,Fleet Owner,Dealer
+2024-06-12,Punjab,Eicher Pro 2049,170,Metro Trucks,231239766,Retail,Dealer
+2024-01-24,Punjab,Skyline 20.15,124,Metro Trucks,168412719,Retail,Dealer
+2024-02-14,Punjab,Eicher Pro 2049,64,S.K. Motors,97118012,Government,Institutional
+2024-06-21,Karnataka,Eicher Pro 3015,43,Mahadev Motors,49937826,Government,Institutional
+2024-09-29,Karnataka,Eicher Pro 2049,148,Yash Auto,133228808,Fleet Owner,Institutional
+2024-04-12,Gujarat,Eicher Pro 3015,84,S.K. Motors,125935729,Retail,Direct
+2024-12-17,Punjab,Skyline Pro,33,Jai Ganesh Vehicles,30659044,Government,Dealer
+2024-01-22,Karnataka,Skyline Pro,75,Mahadev Motors,70249809,Retail,Direct
+2024-03-12,Gujarat,Eicher Pro 6025,167,Metro Trucks,242404774,Fleet Owner,Dealer
+2024-01-09,Tamil Nadu,Skyline 20.15,134,S.K. Motors,151220575,Retail,Dealer
+2024-01-23,Punjab,Eicher Pro 3015,189,Yash Auto,301299561,Retail,Institutional
+2024-07-14,Gujarat,Skyline Pro,126,S.K. Motors,113681600,Fleet Owner,Dealer
+2024-09-16,Tamil Nadu,Eicher Pro 2049,68,Metro Trucks,65359931,Government,Institutional
+2024-02-26,Tamil Nadu,Eicher Pro 6025,146,Yash Auto,227753117,Government,Dealer
+2024-11-05,Gujarat,Eicher Pro 3015,126,Metro Trucks,141918929,Retail,Dealer
+2024-05-27,Gujarat,Eicher Pro 3015,176,S.K. Motors,157543278,Government,Dealer
+2024-04-06,Tamil Nadu,Skyline Pro,91,Jai Ganesh Vehicles,94712633,Fleet Owner,Institutional
+2024-11-23,Maharashtra,Eicher Pro 6025,21,Jai Ganesh Vehicles,27446206,Retail,Dealer
+2024-06-19,Punjab,Eicher Pro 3015,157,Metro Trucks,161497488,Government,Institutional
+2024-09-07,Punjab,Eicher Pro 2049,200,Metro Trucks,250400781,Retail,Dealer
+2024-04-10,Gujarat,Skyline Pro,144,Jai Ganesh Vehicles,151933077,Government,Institutional
+2024-12-24,Karnataka,Eicher Pro 2049,175,S.K. Motors,221896735,Retail,Direct
+2024-09-10,Punjab,Skyline Pro,169,Mahadev Motors,157612458,Retail,Institutional
+2024-06-27,Maharashtra,Eicher Pro 6025,160,Metro Trucks,143853969,Retail,Dealer
+2024-10-16,Punjab,Skyline 20.15,167,Yash Auto,243758183,Government,Institutional
+2024-09-23,Maharashtra,Skyline Pro,25,Yash Auto,36665550,Retail,Institutional
+2024-11-26,Karnataka,Skyline 20.15,80,Yash Auto,109068242,Retail,Direct
+2024-11-15,Gujarat,Eicher Pro 2049,14,Jai Ganesh Vehicles,15045523,Retail,Direct
+2024-02-21,Gujarat,Skyline 20.15,192,Mahadev Motors,225213925,Fleet Owner,Dealer
+2024-07-03,Punjab,Eicher Pro 6025,53,Yash Auto,73281105,Fleet Owner,Institutional
+2024-11-25,Gujarat,Eicher Pro 2049,94,Jai Ganesh Vehicles,115058922,Fleet Owner,Institutional
+2024-02-26,Gujarat,Eicher Pro 2049,116,Metro Trucks,144366899,Fleet Owner,Dealer
+2024-10-25,Tamil Nadu,Eicher Pro 6025,18,S.K. Motors,22243177,Fleet Owner,Direct
+2024-07-20,Maharashtra,Eicher Pro 6025,195,Jai Ganesh Vehicles,278886516,Government,Direct
+2024-01-15,Maharashtra,Eicher Pro 3015,184,Yash Auto,265861281,Retail,Direct
+2024-01-29,Karnataka,Eicher Pro 6025,187,Yash Auto,211052339,Government,Dealer
+2024-06-12,Punjab,Eicher Pro 2049,162,S.K. Motors,235807840,Government,Dealer
+2024-11-21,Punjab,Eicher Pro 6025,115,Yash Auto,152757439,Government,Direct
+2024-01-31,Maharashtra,Eicher Pro 2049,38,Jai Ganesh Vehicles,31542398,Fleet Owner,Direct
+2024-03-09,Maharashtra,Eicher Pro 2049,30,Yash Auto,34843074,Fleet Owner,Direct
+2024-11-01,Gujarat,Skyline 20.15,106,S.K. Motors,135927383,Retail,Direct
+2024-02-22,Maharashtra,Skyline 20.15,138,S.K. Motors,137127589,Fleet Owner,Institutional
+2024-08-25,Maharashtra,Skyline Pro,184,Metro Trucks,273434983,Retail,Dealer
+2024-07-29,Maharashtra,Eicher Pro 3015,163,Mahadev Motors,208043052,Government,Dealer
+2024-01-28,Punjab,Eicher Pro 3015,76,Metro Trucks,84087564,Retail,Direct
+2024-08-08,Tamil Nadu,Eicher Pro 2049,64,S.K. Motors,76698443,Fleet Owner,Dealer
+2024-04-22,Tamil Nadu,Skyline 20.15,97,Mahadev Motors,142165732,Government,Institutional
+2024-07-24,Karnataka,Eicher Pro 3015,133,Metro Trucks,124500212,Retail,Dealer
+2024-08-14,Punjab,Eicher Pro 2049,41,S.K. Motors,36983089,Retail,Direct
+2024-06-01,Maharashtra,Eicher Pro 2049,116,Yash Auto,119830523,Retail,Dealer
+2024-03-10,Maharashtra,Eicher Pro 6025,185,Mahadev Motors,262867304,Retail,Institutional
+2024-10-21,Tamil Nadu,Eicher Pro 2049,73,Mahadev Motors,115100236,Retail,Direct
+2024-02-08,Gujarat,Skyline 20.15,78,S.K. Motors,91369000,Fleet Owner,Direct
+2024-03-29,Maharashtra,Eicher Pro 3015,24,Metro Trucks,35181935,Retail,Dealer
+2024-01-17,Tamil Nadu,Eicher Pro 2049,199,Yash Auto,245630768,Government,Institutional
+2024-03-30,Tamil Nadu,Skyline 20.15,105,S.K. Motors,95350002,Government,Direct
+2024-03-28,Maharashtra,Eicher Pro 3015,29,Jai Ganesh Vehicles,23363657,Fleet Owner,Institutional
+2024-03-14,Tamil Nadu,Eicher Pro 2049,76,Jai Ganesh Vehicles,116859455,Retail,Direct
+2024-04-18,Maharashtra,Skyline Pro,163,Metro Trucks,208146418,Government,Direct
+2024-10-15,Tamil Nadu,Skyline 20.15,83,Yash Auto,71444156,Fleet Owner,Direct
+2024-03-03,Karnataka,Eicher Pro 2049,125,Yash Auto,116632183,Government,Dealer
+2024-12-15,Punjab,Eicher Pro 6025,116,Yash Auto,96651288,Government,Direct
+2024-02-29,Gujarat,Skyline Pro,106,Yash Auto,143436679,Government,Direct
+2024-02-04,Karnataka,Eicher Pro 6025,38,Mahadev Motors,41887097,Retail,Institutional
+2024-07-27,Karnataka,Eicher Pro 3015,159,Yash Auto,235788200,Retail,Institutional
+2024-06-20,Karnataka,Eicher Pro 3015,29,Metro Trucks,28797714,Retail,Institutional
+2024-09-28,Maharashtra,Eicher Pro 3015,23,Metro Trucks,19689816,Fleet Owner,Direct
+2024-10-02,Karnataka,Eicher Pro 2049,85,S.K. Motors,95008593,Retail,Direct
+2024-08-17,Gujarat,Skyline 20.15,37,Mahadev Motors,36406491,Government,Institutional
+2024-05-26,Karnataka,Skyline Pro,52,Mahadev Motors,44208552,Retail,Dealer
+2024-10-14,Karnataka,Eicher Pro 6025,116,S.K. Motors,173773379,Government,Direct
+2024-06-13,Punjab,Skyline Pro,128,Yash Auto,107987600,Fleet Owner,Direct
+2024-02-12,Gujarat,Eicher Pro 6025,110,Jai Ganesh Vehicles,140649695,Retail,Direct
+2024-04-06,Karnataka,Eicher Pro 3015,118,Jai Ganesh Vehicles,170033739,Government,Dealer
+2024-08-18,Punjab,Eicher Pro 3015,74,Metro Trucks,103651633,Retail,Dealer
+2024-09-10,Tamil Nadu,Skyline 20.15,117,Jai Ganesh Vehicles,165478078,Fleet Owner,Direct
+2024-08-02,Punjab,Skyline 20.15,163,Mahadev Motors,166620723,Fleet Owner,Institutional
+2024-10-25,Tamil Nadu,Eicher Pro 3015,130,Yash Auto,192793534,Government,Dealer
+2024-09-13,Tamil Nadu,Eicher Pro 3015,50,Jai Ganesh Vehicles,48417831,Retail,Direct
+2024-03-05,Maharashtra,Eicher Pro 3015,122,Metro Trucks,176233550,Retail,Direct
+2024-02-19,Punjab,Eicher Pro 6025,141,Mahadev Motors,184087626,Government,Direct
+2024-09-04,Punjab,Eicher Pro 3015,54,Metro Trucks,75228607,Retail,Institutional
+2024-01-22,Tamil Nadu,Eicher Pro 3015,131,Metro Trucks,206556295,Fleet Owner,Dealer
+2024-12-20,Gujarat,Eicher Pro 2049,107,Mahadev Motors,169939523,Fleet Owner,Dealer
+2024-04-09,Gujarat,Skyline 20.15,200,S.K. Motors,318803287,Government,Direct
+2024-05-27,Gujarat,Eicher Pro 6025,89,Jai Ganesh Vehicles,100456104,Retail,Direct
+2024-09-26,Karnataka,Skyline Pro,150,Yash Auto,236512960,Government,Direct
+2024-11-18,Punjab,Skyline Pro,188,Mahadev Motors,279970613,Fleet Owner,Direct
+2024-04-05,Punjab,Eicher Pro 3015,91,Jai Ganesh Vehicles,85666926,Fleet Owner,Direct
+2024-03-17,Gujarat,Eicher Pro 6025,68,Metro Trucks,100642459,Government,Institutional
+2024-04-01,Tamil Nadu,Eicher Pro 3015,10,Metro Trucks,10597817,Fleet Owner,Institutional
+2024-01-08,Maharashtra,Eicher Pro 6025,168,Mahadev Motors,211707285,Government,Direct
+2024-04-26,Karnataka,Eicher Pro 2049,108,S.K. Motors,150179125,Government,Institutional
+2024-07-08,Gujarat,Eicher Pro 2049,105,Metro Trucks,93688983,Fleet Owner,Institutional
+2024-05-11,Gujarat,Eicher Pro 6025,85,Jai Ganesh Vehicles,82825923,Retail,Institutional
+2024-10-26,Punjab,Skyline Pro,193,Yash Auto,294348617,Retail,Direct
+2024-12-22,Maharashtra,Skyline Pro,57,S.K. Motors,70383196,Government,Dealer
+2024-10-06,Tamil Nadu,Skyline Pro,35,Metro Trucks,45387600,Fleet Owner,Direct
+2024-12-01,Karnataka,Skyline Pro,175,Mahadev Motors,155814935,Fleet Owner,Direct
+2024-02-07,Punjab,Eicher Pro 2049,56,Mahadev Motors,52218756,Retail,Dealer
+2024-03-09,Gujarat,Eicher Pro 6025,30,Yash Auto,39182765,Fleet Owner,Direct
+2024-05-10,Tamil Nadu,Skyline Pro,10,Metro Trucks,15604896,Fleet Owner,Dealer
+2024-01-24,Punjab,Skyline Pro,152,Yash Auto,210027398,Government,Dealer
+2024-08-15,Tamil Nadu,Skyline 20.15,78,Yash Auto,96716297,Government,Institutional
+2024-06-01,Gujarat,Eicher Pro 2049,27,Metro Trucks,39262293,Fleet Owner,Direct
+2024-10-21,Punjab,Eicher Pro 2049,70,Mahadev Motors,76053739,Government,Institutional
+2024-06-02,Karnataka,Skyline 20.15,136,S.K. Motors,208840726,Fleet Owner,Institutional
+2024-04-03,Karnataka,Skyline Pro,122,Metro Trucks,165348801,Government,Direct
+2024-04-27,Karnataka,Eicher Pro 6025,84,Metro Trucks,126276330,Fleet Owner,Direct
+2024-08-01,Tamil Nadu,Eicher Pro 6025,30,S.K. Motors,47351285,Fleet Owner,Dealer
+2024-06-10,Tamil Nadu,Skyline Pro,160,Yash Auto,229595063,Retail,Direct
+2024-08-02,Punjab,Skyline 20.15,122,Mahadev Motors,150067891,Government,Institutional
+2024-01-01,Gujarat,Skyline 20.15,72,Mahadev Motors,97991241,Fleet Owner,Dealer
+2024-05-20,Maharashtra,Eicher Pro 2049,134,S.K. Motors,182421363,Retail,Dealer
+2024-09-04,Tamil Nadu,Skyline 20.15,197,Mahadev Motors,214522646,Fleet Owner,Dealer
+2024-10-12,Tamil Nadu,Skyline 20.15,152,S.K. Motors,222350500,Government,Institutional
+2024-01-27,Karnataka,Skyline 20.15,86,Metro Trucks,131909771,Government,Dealer
+2024-11-10,Maharashtra,Eicher Pro 6025,121,Yash Auto,140451509,Government,Direct
+2024-02-29,Punjab,Eicher Pro 6025,39,Jai Ganesh Vehicles,61170004,Retail,Institutional
+2024-06-01,Gujarat,Eicher Pro 6025,92,Mahadev Motors,88524584,Government,Direct
+2024-01-16,Punjab,Eicher Pro 3015,85,Metro Trucks,118152801,Government,Direct
+2024-02-08,Tamil Nadu,Eicher Pro 6025,109,S.K. Motors,112012156,Fleet Owner,Dealer
+2024-09-02,Tamil Nadu,Skyline Pro,183,S.K. Motors,194635329,Fleet Owner,Dealer
+2024-11-26,Gujarat,Eicher Pro 2049,116,Metro Trucks,143630854,Government,Dealer
+2024-02-27,Maharashtra,Skyline 20.15,134,Mahadev Motors,185484044,Fleet Owner,Institutional
+2024-03-25,Maharashtra,Eicher Pro 6025,105,S.K. Motors,160206609,Fleet Owner,Dealer
+2024-09-21,Maharashtra,Skyline 20.15,22,S.K. Motors,31840572,Retail,Institutional
+2024-01-28,Karnataka,Skyline 20.15,176,Mahadev Motors,263131586,Retail,Institutional
+2024-04-13,Karnataka,Eicher Pro 2049,140,Jai Ganesh Vehicles,209434075,Government,Institutional
+2024-05-25,Maharashtra,Skyline 20.15,118,Mahadev Motors,139687941,Fleet Owner,Direct
+2024-10-01,Punjab,Eicher Pro 2049,187,S.K. Motors,159620586,Fleet Owner,Dealer
+2024-02-21,Karnataka,Skyline Pro,87,S.K. Motors,103090368,Retail,Direct
+2024-09-26,Gujarat,Skyline 20.15,114,Yash Auto,97226135,Retail,Institutional
+2024-01-22,Punjab,Skyline Pro,164,Mahadev Motors,253711622,Government,Direct
+2024-06-28,Punjab,Eicher Pro 3015,151,Mahadev Motors,125228459,Fleet Owner,Dealer
+2024-02-20,Gujarat,Eicher Pro 6025,19,Jai Ganesh Vehicles,26876466,Government,Institutional
+2024-03-10,Gujarat,Skyline 20.15,89,S.K. Motors,141798291,Retail,Direct
+2024-11-11,Tamil Nadu,Skyline Pro,103,S.K. Motors,91253080,Fleet Owner,Direct
+2024-08-02,Maharashtra,Eicher Pro 6025,123,Yash Auto,184791553,Government,Institutional
+2024-08-08,Gujarat,Eicher Pro 2049,39,S.K. Motors,60105277,Retail,Direct
+2024-12-23,Karnataka,Eicher Pro 6025,195,Yash Auto,217009471,Fleet Owner,Dealer
+2024-05-21,Karnataka,Eicher Pro 2049,105,Mahadev Motors,146673826,Retail,Direct
+2024-03-02,Karnataka,Skyline 20.15,118,Jai Ganesh Vehicles,103409407,Retail,Direct
+2024-08-19,Tamil Nadu,Skyline Pro,147,Yash Auto,227039183,Government,Dealer
+2024-01-22,Tamil Nadu,Eicher Pro 3015,106,Jai Ganesh Vehicles,97478999,Government,Institutional
+2024-09-21,Tamil Nadu,Skyline 20.15,23,Mahadev Motors,36664778,Fleet Owner,Dealer
+2024-03-15,Punjab,Eicher Pro 2049,133,Jai Ganesh Vehicles,209108245,Fleet Owner,Direct
+2024-10-17,Karnataka,Skyline 20.15,180,Jai Ganesh Vehicles,214629391,Retail,Direct
+2024-08-30,Gujarat,Skyline Pro,49,Mahadev Motors,58186088,Government,Direct
+2024-09-09,Tamil Nadu,Eicher Pro 6025,88,Yash Auto,123777086,Government,Direct
+2024-02-08,Punjab,Eicher Pro 3015,94,Metro Trucks,95517118,Fleet Owner,Dealer
+2024-01-12,Gujarat,Eicher Pro 3015,120,Yash Auto,179909896,Government,Direct
+2024-12-26,Gujarat,Eicher Pro 3015,142,Jai Ganesh Vehicles,136785491,Retail,Institutional
+2024-09-08,Gujarat,Eicher Pro 2049,89,S.K. Motors,101707881,Government,Dealer
+2024-05-15,Tamil Nadu,Eicher Pro 3015,124,Jai Ganesh Vehicles,172404060,Fleet Owner,Institutional
+2024-06-12,Gujarat,Eicher Pro 6025,87,Mahadev Motors,124980135,Government,Direct
+2024-10-25,Gujarat,Eicher Pro 2049,26,Jai Ganesh Vehicles,30001611,Fleet Owner,Dealer
+2024-07-16,Tamil Nadu,Skyline Pro,17,Metro Trucks,23894965,Fleet Owner,Institutional
+2024-11-02,Tamil Nadu,Skyline Pro,81,Jai Ganesh Vehicles,99823826,Government,Direct
+2024-10-29,Maharashtra,Eicher Pro 2049,135,Yash Auto,203141211,Retail,Direct
+2024-03-17,Karnataka,Skyline 20.15,86,Jai Ganesh Vehicles,132488550,Government,Institutional
+2024-05-15,Punjab,Skyline 20.15,160,S.K. Motors,150225615,Government,Institutional
+2024-07-21,Gujarat,Eicher Pro 3015,121,Yash Auto,163786492,Government,Institutional
+2024-11-19,Maharashtra,Eicher Pro 2049,154,Yash Auto,244814491,Retail,Dealer
+2024-03-04,Tamil Nadu,Eicher Pro 3015,62,Mahadev Motors,57337145,Fleet Owner,Institutional
+2024-09-01,Karnataka,Eicher Pro 3015,30,S.K. Motors,26432175,Retail,Dealer
+2024-12-26,Tamil Nadu,Eicher Pro 2049,121,Jai Ganesh Vehicles,165834078,Retail,Dealer
+2024-05-19,Punjab,Skyline 20.15,26,Metro Trucks,35378117,Fleet Owner,Institutional
+2024-10-05,Gujarat,Eicher Pro 2049,186,Metro Trucks,178972218,Fleet Owner,Institutional
+2024-05-29,Maharashtra,Skyline Pro,105,S.K. Motors,162806800,Fleet Owner,Institutional
+2024-02-02,Gujarat,Skyline Pro,92,S.K. Motors,101333924,Retail,Direct
+2024-06-05,Gujarat,Skyline Pro,104,S.K. Motors,144437468,Retail,Institutional
+2024-06-08,Maharashtra,Eicher Pro 6025,178,S.K. Motors,157077398,Government,Direct
+2024-05-14,Gujarat,Skyline Pro,178,Jai Ganesh Vehicles,221350605,Fleet Owner,Institutional
+2024-09-07,Gujarat,Skyline Pro,104,S.K. Motors,161107215,Fleet Owner,Institutional
+2024-12-10,Karnataka,Eicher Pro 3015,34,Yash Auto,42061879,Government,Institutional
+2024-11-02,Karnataka,Eicher Pro 6025,182,Yash Auto,270064207,Government,Direct
+2024-11-12,Punjab,Skyline 20.15,60,Mahadev Motors,64632616,Fleet Owner,Direct
+2024-10-20,Punjab,Eicher Pro 2049,153,S.K. Motors,188960016,Government,Institutional
+2024-08-23,Punjab,Skyline Pro,92,Jai Ganesh Vehicles,97308801,Government,Dealer
+2024-05-21,Maharashtra,Eicher Pro 2049,134,Metro Trucks,154150477,Government,Dealer
+2024-07-16,Maharashtra,Eicher Pro 2049,153,Metro Trucks,139780547,Government,Direct
+2024-08-04,Maharashtra,Eicher Pro 6025,129,Jai Ganesh Vehicles,168111153,Retail,Direct
+2024-03-22,Tamil Nadu,Eicher Pro 6025,107,Yash Auto,85722197,Fleet Owner,Institutional
+2024-04-30,Tamil Nadu,Eicher Pro 2049,194,Metro Trucks,295334186,Government,Direct
+2024-02-29,Gujarat,Eicher Pro 6025,103,Jai Ganesh Vehicles,131034514,Retail,Institutional
+2024-02-26,Gujarat,Skyline 20.15,93,Mahadev Motors,76732710,Fleet Owner,Institutional
+2024-12-29,Karnataka,Eicher Pro 3015,10,Metro Trucks,14045768,Fleet Owner,Institutional
+2024-02-16,Punjab,Skyline 20.15,27,S.K. Motors,34628501,Retail,Direct
+2024-06-03,Tamil Nadu,Eicher Pro 2049,113,Metro Trucks,103217577,Fleet Owner,Direct
+2024-01-31,Punjab,Eicher Pro 3015,50,Mahadev Motors,70448300,Retail,Institutional
+2024-12-25,Punjab,Eicher Pro 3015,11,Mahadev Motors,15770406,Fleet Owner,Direct
+2024-05-11,Karnataka,Skyline 20.15,128,Yash Auto,114094028,Fleet Owner,Dealer
+2024-10-22,Karnataka,Skyline Pro,62,Mahadev Motors,83209035,Fleet Owner,Direct
+2024-03-25,Punjab,Eicher Pro 2049,72,Mahadev Motors,101592007,Fleet Owner,Dealer
+2024-09-30,Punjab,Eicher Pro 2049,138,Mahadev Motors,195772613,Retail,Dealer
+2024-10-12,Karnataka,Eicher Pro 6025,161,Mahadev Motors,129488068,Retail,Dealer
+2024-11-20,Punjab,Eicher Pro 3015,123,Yash Auto,136491028,Fleet Owner,Direct
+2024-07-11,Punjab,Skyline Pro,55,Mahadev Motors,50242198,Retail,Dealer
+2024-10-25,Punjab,Eicher Pro 2049,68,Yash Auto,69989017,Government,Institutional
+2024-02-23,Karnataka,Skyline 20.15,198,Yash Auto,175387039,Government,Institutional
+2024-12-24,Tamil Nadu,Eicher Pro 6025,54,Metro Trucks,74373718,Retail,Direct
+2024-02-25,Maharashtra,Skyline 20.15,133,Jai Ganesh Vehicles,118034892,Government,Direct
+2024-08-19,Punjab,Skyline 20.15,150,Metro Trucks,233399917,Fleet Owner,Dealer
+2024-07-01,Maharashtra,Eicher Pro 3015,92,Metro Trucks,145396004,Government,Direct
+2024-11-01,Karnataka,Skyline 20.15,161,S.K. Motors,236033105,Fleet Owner,Direct
+2024-03-16,Maharashtra,Eicher Pro 2049,60,Mahadev Motors,53778729,Retail,Direct
+2024-01-24,Maharashtra,Eicher Pro 2049,163,Yash Auto,157297453,Government,Institutional
+2024-03-19,Punjab,Eicher Pro 3015,18,S.K. Motors,21059351,Retail,Direct
+2024-11-02,Punjab,Skyline 20.15,150,Yash Auto,153165034,Retail,Direct
+2024-07-31,Gujarat,Skyline Pro,138,Mahadev Motors,136383503,Government,Institutional
+2024-10-28,Maharashtra,Skyline Pro,129,Metro Trucks,206244759,Fleet Owner,Institutional
+2024-06-29,Karnataka,Eicher Pro 2049,176,S.K. Motors,241069804,Government,Direct
+2024-05-26,Punjab,Eicher Pro 2049,22,Yash Auto,31931953,Retail,Institutional
+2024-06-24,Tamil Nadu,Eicher Pro 3015,68,Jai Ganesh Vehicles,92273931,Fleet Owner,Direct
+2024-09-09,Karnataka,Eicher Pro 2049,152,Jai Ganesh Vehicles,131489784,Government,Direct
+2024-03-24,Maharashtra,Skyline 20.15,87,Yash Auto,99921201,Fleet Owner,Direct
+2024-07-19,Karnataka,Skyline Pro,26,Mahadev Motors,41134320,Fleet Owner,Institutional
+2024-09-15,Maharashtra,Skyline Pro,161,Metro Trucks,177777508,Fleet Owner,Direct
+2024-09-30,Punjab,Eicher Pro 6025,26,Mahadev Motors,35498487,Government,Direct
+2024-02-05,Tamil Nadu,Eicher Pro 6025,180,Mahadev Motors,199513838,Retail,Direct
+2024-10-05,Gujarat,Skyline Pro,127,Mahadev Motors,175061470,Fleet Owner,Dealer
+2024-07-02,Punjab,Skyline Pro,81,Yash Auto,97090638,Retail,Direct
+2024-09-09,Punjab,Eicher Pro 2049,20,Jai Ganesh Vehicles,20400404,Fleet Owner,Direct
+2024-10-27,Maharashtra,Eicher Pro 6025,64,Yash Auto,66157383,Government,Dealer
+2024-06-13,Maharashtra,Skyline Pro,58,Mahadev Motors,64354297,Government,Institutional
+2024-07-08,Tamil Nadu,Eicher Pro 6025,177,Metro Trucks,264565196,Retail,Institutional
+2024-09-20,Karnataka,Skyline 20.15,33,Yash Auto,44622498,Government,Dealer
+2024-03-07,Tamil Nadu,Skyline 20.15,59,Metro Trucks,60588787,Government,Dealer
+2024-07-18,Punjab,Skyline 20.15,196,Metro Trucks,303101592,Retail,Direct
+2024-03-28,Maharashtra,Skyline 20.15,117,Yash Auto,130380510,Retail,Institutional
+2024-09-28,Maharashtra,Eicher Pro 3015,25,Metro Trucks,27466494,Fleet Owner,Institutional
+2024-05-23,Karnataka,Eicher Pro 3015,103,Jai Ganesh Vehicles,142356517,Fleet Owner,Dealer
+2024-06-17,Maharashtra,Skyline 20.15,183,Metro Trucks,276951433,Government,Institutional
+2024-06-06,Maharashtra,Eicher Pro 3015,48,Metro Trucks,61568485,Government,Direct
+2024-01-12,Maharashtra,Eicher Pro 3015,115,S.K. Motors,144524755,Retail,Direct
+2024-03-06,Gujarat,Skyline Pro,115,Metro Trucks,96567031,Fleet Owner,Direct
+2024-09-09,Tamil Nadu,Eicher Pro 6025,163,S.K. Motors,168834719,Retail,Dealer
+2024-10-14,Karnataka,Eicher Pro 3015,97,S.K. Motors,147550078,Government,Institutional
+2024-11-17,Maharashtra,Eicher Pro 2049,55,Jai Ganesh Vehicles,57966441,Fleet Owner,Dealer
+2024-12-19,Karnataka,Skyline 20.15,70,Jai Ganesh Vehicles,62304863,Fleet Owner,Direct
+2024-02-17,Gujarat,Eicher Pro 3015,115,Metro Trucks,167679085,Retail,Institutional
+2024-03-13,Tamil Nadu,Skyline 20.15,36,Mahadev Motors,39850313,Fleet Owner,Dealer
+2024-07-14,Tamil Nadu,Skyline Pro,197,Mahadev Motors,213485733,Fleet Owner,Institutional
+2024-02-04,Punjab,Skyline Pro,155,Yash Auto,220529244,Fleet Owner,Direct
+2024-01-11,Punjab,Eicher Pro 2049,137,Mahadev Motors,116729457,Government,Dealer
+2024-09-30,Gujarat,Eicher Pro 3015,93,Metro Trucks,107059944,Retail,Direct
+2024-11-16,Maharashtra,Skyline 20.15,200,Jai Ganesh Vehicles,304523096,Fleet Owner,Dealer
+2024-12-01,Maharashtra,Skyline 20.15,153,Jai Ganesh Vehicles,173948049,Fleet Owner,Dealer
+2024-06-01,Tamil Nadu,Skyline 20.15,11,Jai Ganesh Vehicles,14863741,Fleet Owner,Institutional
+2024-03-29,Gujarat,Eicher Pro 3015,62,Jai Ganesh Vehicles,88056433,Fleet Owner,Dealer
+2024-12-08,Karnataka,Eicher Pro 2049,158,Mahadev Motors,219738326,Retail,Institutional
+2024-03-11,Gujarat,Eicher Pro 6025,159,Jai Ganesh Vehicles,177684682,Government,Institutional
+2024-11-18,Tamil Nadu,Skyline 20.15,31,Mahadev Motors,35579689,Retail,Direct
+2024-11-07,Gujarat,Eicher Pro 2049,103,Yash Auto,134441565,Government,Direct
+2024-07-25,Maharashtra,Skyline Pro,20,S.K. Motors,20554491,Fleet Owner,Dealer
+2024-11-11,Tamil Nadu,Skyline Pro,186,S.K. Motors,195593337,Government,Dealer
+2024-10-18,Gujarat,Eicher Pro 6025,148,S.K. Motors,184776187,Retail,Direct
+2024-08-28,Gujarat,Skyline Pro,18,Metro Trucks,27536460,Fleet Owner,Direct
+2024-12-30,Punjab,Skyline Pro,75,Yash Auto,96122818,Government,Direct
+2024-11-05,Gujarat,Eicher Pro 2049,170,Yash Auto,188078904,Government,Institutional
+2024-08-15,Tamil Nadu,Skyline 20.15,53,Mahadev Motors,72423839,Retail,Direct
+2024-10-21,Maharashtra,Eicher Pro 3015,41,Metro Trucks,40406172,Government,Institutional
+2024-08-27,Karnataka,Eicher Pro 6025,114,Jai Ganesh Vehicles,109592926,Retail,Dealer
+2024-03-01,Karnataka,Eicher Pro 6025,11,Metro Trucks,13375475,Fleet Owner,Dealer
+2024-09-05,Gujarat,Eicher Pro 3015,163,S.K. Motors,195824890,Retail,Direct
+2024-08-07,Maharashtra,Eicher Pro 6025,170,Yash Auto,253991308,Fleet Owner,Direct
+2024-04-22,Punjab,Eicher Pro 3015,66,Yash Auto,90092265,Fleet Owner,Institutional
+2024-08-03,Gujarat,Skyline Pro,20,Metro Trucks,31917742,Retail,Direct
+2024-09-03,Tamil Nadu,Skyline 20.15,176,Metro Trucks,249045917,Retail,Direct
+2024-03-19,Gujarat,Skyline Pro,150,S.K. Motors,136314022,Government,Direct
+2024-02-23,Gujarat,Eicher Pro 6025,123,Jai Ganesh Vehicles,110239861,Government,Institutional
+2024-09-21,Tamil Nadu,Eicher Pro 6025,123,Jai Ganesh Vehicles,114603300,Fleet Owner,Dealer
+2024-12-20,Tamil Nadu,Skyline 20.15,24,S.K. Motors,19507650,Fleet Owner,Direct
+2024-12-19,Karnataka,Eicher Pro 2049,50,Yash Auto,46392406,Government,Institutional
+2024-03-25,Punjab,Eicher Pro 3015,186,Mahadev Motors,223664151,Government,Direct
+2024-05-21,Gujarat,Eicher Pro 6025,23,Metro Trucks,33765230,Fleet Owner,Dealer
+2024-03-29,Karnataka,Skyline 20.15,49,Jai Ganesh Vehicles,67315459,Government,Dealer
+2024-02-12,Karnataka,Skyline 20.15,106,S.K. Motors,118842137,Fleet Owner,Dealer
+2024-09-15,Karnataka,Skyline 20.15,65,Mahadev Motors,88858069,Fleet Owner,Institutional
+2024-09-29,Punjab,Eicher Pro 6025,45,Yash Auto,66746735,Government,Institutional
+2024-10-02,Punjab,Skyline Pro,168,Mahadev Motors,176949471,Fleet Owner,Dealer
+2024-01-06,Gujarat,Skyline Pro,33,Jai Ganesh Vehicles,49439752,Fleet Owner,Dealer
+2024-12-17,Gujarat,Eicher Pro 3015,25,S.K. Motors,30892300,Government,Dealer
+2024-02-29,Maharashtra,Skyline 20.15,137,Yash Auto,211603971,Government,Dealer
+2024-06-17,Punjab,Eicher Pro 3015,29,S.K. Motors,24617791,Retail,Direct
+2024-10-13,Karnataka,Eicher Pro 3015,35,Mahadev Motors,41008511,Fleet Owner,Dealer
+2024-03-18,Karnataka,Skyline Pro,72,Yash Auto,87313978,Retail,Direct
+2024-01-09,Punjab,Eicher Pro 3015,119,Metro Trucks,158353183,Government,Institutional
+2024-04-11,Maharashtra,Skyline 20.15,105,S.K. Motors,150836468,Government,Dealer
+2024-08-21,Maharashtra,Skyline Pro,109,Mahadev Motors,111451475,Fleet Owner,Dealer
+2024-07-13,Gujarat,Skyline 20.15,145,S.K. Motors,171059234,Fleet Owner,Direct
+2024-08-15,Karnataka,Skyline 20.15,48,Metro Trucks,61688258,Retail,Direct
+2024-03-17,Gujarat,Skyline 20.15,108,Mahadev Motors,171086322,Fleet Owner,Dealer
+2024-06-18,Gujarat,Eicher Pro 2049,18,Metro Trucks,25937944,Government,Dealer
+2024-01-04,Punjab,Eicher Pro 3015,81,S.K. Motors,121232738,Government,Dealer
+2024-09-23,Tamil Nadu,Skyline Pro,33,Mahadev Motors,47342069,Retail,Direct
+2024-03-04,Tamil Nadu,Skyline 20.15,194,Mahadev Motors,281481248,Retail,Direct
+2024-08-14,Tamil Nadu,Skyline Pro,105,Jai Ganesh Vehicles,98119155,Government,Dealer
+2024-06-17,Karnataka,Skyline 20.15,85,Jai Ganesh Vehicles,113758306,Government,Institutional
+2024-02-18,Tamil Nadu,Eicher Pro 6025,165,Yash Auto,144360487,Fleet Owner,Direct
+2024-02-26,Karnataka,Skyline Pro,92,Yash Auto,117444700,Government,Institutional
+2024-11-27,Punjab,Eicher Pro 6025,114,Jai Ganesh Vehicles,148474345,Retail,Institutional
+2024-07-26,Tamil Nadu,Eicher Pro 6025,30,Jai Ganesh Vehicles,37726724,Retail,Direct
+2024-06-10,Gujarat,Eicher Pro 6025,28,Mahadev Motors,36612540,Fleet Owner,Direct
+2024-06-09,Gujarat,Eicher Pro 3015,153,Mahadev Motors,193105019,Fleet Owner,Direct
+2024-03-12,Karnataka,Skyline Pro,131,Metro Trucks,208666329,Fleet Owner,Direct
+2024-12-11,Maharashtra,Eicher Pro 3015,26,Mahadev Motors,24844301,Fleet Owner,Direct
+2024-12-16,Karnataka,Skyline Pro,150,Jai Ganesh Vehicles,237877243,Retail,Direct
+2024-11-27,Karnataka,Eicher Pro 3015,111,Metro Trucks,104272181,Fleet Owner,Dealer
+2024-12-15,Gujarat,Eicher Pro 6025,125,Metro Trucks,189199074,Fleet Owner,Institutional
+2024-11-06,Punjab,Skyline 20.15,126,Metro Trucks,125361514,Fleet Owner,Dealer
+2024-01-22,Tamil Nadu,Skyline Pro,123,Yash Auto,184135476,Government,Institutional
+2024-01-09,Karnataka,Skyline 20.15,68,Mahadev Motors,69710873,Fleet Owner,Direct
+2024-06-16,Tamil Nadu,Eicher Pro 6025,135,Yash Auto,197939188,Government,Institutional
+2024-09-13,Maharashtra,Eicher Pro 6025,177,Jai Ganesh Vehicles,268813586,Retail,Institutional
+2024-06-28,Gujarat,Eicher Pro 3015,133,Jai Ganesh Vehicles,195405829,Retail,Direct
+2024-09-22,Tamil Nadu,Eicher Pro 2049,98,Mahadev Motors,146499526,Retail,Dealer
+2024-06-08,Punjab,Eicher Pro 3015,150,Jai Ganesh Vehicles,179265882,Fleet Owner,Institutional
+2024-03-07,Maharashtra,Eicher Pro 2049,107,Jai Ganesh Vehicles,116047464,Government,Direct
+2024-04-15,Maharashtra,Eicher Pro 3015,172,S.K. Motors,228377425,Fleet Owner,Dealer
+2024-05-23,Punjab,Eicher Pro 2049,113,Mahadev Motors,106372904,Fleet Owner,Direct
+2024-06-07,Tamil Nadu,Skyline Pro,22,Metro Trucks,18028570,Retail,Direct

@@ -1,0 +1,12 @@
+ gradio 
+ pandas 
+ matplotlib.pyplot
+ seaborn 
+ prophet  
+ reportlab.pdfgen  
+ reportlab.lib.pagesizes  
+ reportlab.lib.utils 
+ io
+ os
+ uuid
+ re
